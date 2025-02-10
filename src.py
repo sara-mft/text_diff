@@ -1,6 +1,14 @@
 import difflib
 import pandas as pd
 
+import string
+
+def clean_text(text):
+    """Convert text to lowercase and remove punctuation."""
+    if isinstance(text, str):
+        return text.lower().translate(str.maketrans('', '', string.punctuation))
+    return text
+
 def highlight_character_diff(text1, text2):
     matcher = difflib.SequenceMatcher(None, text1, text2)
     highlighted = []
@@ -25,6 +33,8 @@ if __name__ == "__main__":
         "Column2": ["good evening", "this is an exam"]
     }
     df = pd.DataFrame(data)
+
+    df = df.applymap(clean_text)
     
     df["Difference"] = df.apply(lambda row: highlight_character_diff(row["Column1"], row["Column2"]), axis=1)
     
