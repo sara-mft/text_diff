@@ -1,0 +1,503 @@
+Question: Quel est le plan de transition pour l'atténuation du changement climatique ? Pour répondre à cette question, nous souhaitons avoir une description brève des principaux leviers de décarbonation, du plan d'investissement et de financement du plan de transition, et de la comptabilité avec un scénario 1,5°C ou 2°C.
+
+
+Context: Parmi les informations que nous recherchons, nous pouvons lister les éléments suivants : <br><br>Plan de transition est aligné avec un scénario 1,5°C. <br><br>Leviers de décarbonation programmés. <br><br>Plan d'investissement et de financement des leviers de décarbonation. <br><br>Alignement de la stratégie et le plan de financement. <br><br>Suivi des progrès.
+
+
+Answer: Sanofi a élaboré un plan de transition pour l'atténuation du changement climatique qui repose sur plusieurs leviers de décarbonation. Les principaux objectifs consistent à réduire les émissions de GES de manière significative d'ici 2030 et à atteindre un objectif de zéro émission nette d'ici 2045. Les leviers de décarbonation incluent :
+
+1. **Réduction des émissions de GES :** Sanofi vise à réduire de 55 % les émissions des scopes 1 et 2 et de 30 % celles du scope 3 d'ici 2030 par rapport à l'année de référence 2019. À long terme, l'objectif est de réduire de 90 % les émissions des scopes 1, 2 et 3 d'ici 2045.
+
+2. **Technologies et comportements :** Le scénario NZE 2050 de l'AIE, que Sanofi prend en compte, nécessite des progrès technologiques et des changements de comportement pour réduire les émissions.
+
+3. **Plan d'investissement et de financement :** Bien que le document ne détaille pas explicitement le plan d'investissement et de financement, il mentionne que Sanofi utilise les hypothèses de coûts de l'énergie et du carbone selon les scénarios de l'AIE pour évaluer les impacts financiers liés à la transition.
+
+4. **Compatibilité avec les scénarios climatiques :** Les objectifs de Sanofi pour les scopes 1 et 2 sont compatibles avec une trajectoire de 1,5 °C, tandis que l'objectif pour les émissions de scope 3 atteint l'ambition minimale pour une trajectoire de 2 °C selon l'approche de contraction absolue (ACA).
+
+En résumé, Sanofi s'engage dans un plan de transition ambitieux pour atténuer le changement climatique en réduisant ses émissions de GES, en s'alignant sur les scénarios climatiques de l'AIE, et en intégrant des considérations financières pour soutenir la transition.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Les objectifs de réduction fixés sont-ils alignés avec une trajectoire de 1,5°C conformément aux Accords de Paris ? L'entreprise mentionne-t-elle une trajectoire conforme aux objectifs SBTi ? Il convient également de noter que, si l'entreprise affiche des objectifs de neutralité carbone, cette neutralité doit nécessairement être alignée avec les recommandations de l'Accord de Paris.
+
+
+Context: Pour garantir la compatibilité avec un scénario de transition conforme à l'accord de Paris, l'entreprise doit fournir les informations suivantes : <br><br>- Un/des objectif(s) de réduction avec une trajectoire de réchauffement à 1,5°C grâce à une trajectoire de décarbonation sectorielle si disponible, soit grâce à une trajectoire d'émissions transsectorielle compatible avec la limitation de réchauffement de la planète à 1,5°C (cf. AR 26 et 27). <br><br>- Les facteurs de réduction des émissions évoluent et ne sont pas fixes encore. Par conséquent, les entreprises sont encouragées à n'utiliser que des informations actualisées et publiquement accessibles. L'EFRAG préconise Pathways to Net-Zero - SBTi Technical Summary). Les cibles de réduction doivent être fixées respectivement à 2030 et 2050, avec des échellons tous les 5 ans. 
+
+
+Answer: Les objectifs de réduction fixés par Sanofi sont partiellement alignés avec une trajectoire de 1,5°C conformément aux Accords de Paris. En effet, l'engagement de Sanofi vers l'objectif zéro émission nette d'ici 2045 a été validé par le SBTi (Science Based Targets initiative) comme étant compatible avec une trajectoire de 1,5°C pour les scopes 1 et 2 à l'horizon 2030. Cependant, pour les émissions de scope 3, l'objectif de réduction de 30 % d'ici 2030 est aligné avec une trajectoire de 2°C, ce qui est moins ambitieux que l'objectif de 1,5°C. 
+
+En ce qui concerne la neutralité carbone, Sanofi s'engage à réduire de 90 % les émissions absolues de GES pour les scopes 1, 2 et 3 d'ici 2045, avec une neutralisation des émissions résiduelles par des actions de séquestration de carbone, ce qui est compatible avec une trajectoire mondiale de 1,5°C, l'objectif le plus ambitieux de l'Accord de Paris. Par conséquent, bien que les objectifs de neutralité carbone soient alignés avec les recommandations de l'Accord de Paris, la trajectoire pour le scope 3 n'atteint pas l'ambition de 1,5°C à court terme.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quels sont les leviers de décarbonation identifiés dans le plan de transition de l'entreprise ? Pour répondre à cette question, nous souhaitons avoir la liste ou les noms des actions menées, accompagnées d'une description simple. Si possible, afficher les objectifs de réduction pour chacune des actions, avec l'année cible et l'année de référence.
+
+
+Context: <br><br>1. Nom de l'action ou du projet de réduction. <br>2. Métrique. <br>3. Périmètre des émissions (Scope 1, 2 ou 3). <br>4. Année de référence. <br>5. Objectif de réduction. <br>6. Année cible. Des informations moins primordiales, mais souhaitables pourraient être : <br><br>- La méthodologie utilisée ou l'initiative correspondante. <br>- Les objectifs intermédiaires (2030, 2035, 2040, 2045). 
+
+
+Answer: Les leviers de décarbonation identifiés dans le plan de transition de l'entreprise incluent les actions suivantes :
+
+1. **Diminution de la consommation et amélioration de l'efficacité énergétique :**
+   - Description : Consommer moins et mieux en optimisant l'efficacité énergétique des opérations.
+   - Objectif de réduction : Réduire les émissions de GES de ce levier à 225 ktCO2eq d'ici 2024, comparé à 272 ktCO2eq en 2019.
+   - Année cible : 2024
+   - Année de référence : 2019
+
+2. **Décarbonation de l'approvisionnement en énergie :**
+   - Description : Consommer différemment en utilisant des sources d'énergie moins carbonées.
+   - Objectif de réduction : Réduire les émissions de GES de ce levier à 9 ktCO2eq d'ici 2024, comparé à 12 ktCO2eq en 2019.
+   - Année cible : 2024
+   - Année de référence : 2019
+
+3. **Gestion des fluides frigorigènes :**
+   - Description : Réduction des émissions liées aux fuites de fluides frigorigènes.
+   - Objectif de réduction : Réduire les émissions de GES de ce levier à 35 ktCO2eq d'ici 2024, comparé à 56 ktCO2eq en 2019.
+   - Année cible : 2024
+   - Année de référence : 2019
+
+4. **Promotion d'une flotte de véhicules écoresponsables :**
+   - Description : Utilisation de véhicules plus respectueux de l'environnement.
+   - Objectif de réduction : Réduire les émissions de GES de ce levier à 374 ktCO2eq d'ici 2024, comparé à 318 ktCO2eq en 2019.
+   - Année cible : 2024
+   - Année de référence : 2019
+
+En plus de ces leviers, l'entreprise s'est fixée des objectifs auxiliaires :
+- Approvisionner 100 % de ses sites en électricité renouvelable d'ici 2030.
+- Investir dans des projets de compensation carbone pour compenser les émissions résiduelles à partir de 2030.
+
+Ces actions font partie d'un effort global pour atteindre une réduction absolue de 55 % des émissions de GES pour les scopes 1 et 2 d'ici 2030, en prenant 2019 comme année de référence.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Prompt: Quelle est la valeur monétaire des contributions politiques, financières et en nature apportées directement et indirectement par l'entreprise ? <br><br>Consignes: Distinguer le montant total des contributions financières directes, des contributions financières indirectes et des contributions en nature. <br>Pour chaque type de contribution, indiquer si les données sont disponibles, ainsi que le pays ou la zone géographique et le bénéficiaire de la contribution. <br>Présenter les données sous forme de tableau, avec les années et les montants respectifs. <br>Veuillez noter que si ces valeurs ne sont pas affichées, cela peut être interprété comme un signe que l'entreprise ne verse pas de contributions politiques ou d'autres contributions financières liées à l'influence et aux pratiques de lobbying.
+
+
+Context: Contexte: Pour cette question, nous analysons les activités et politiques de lobbying de l'entreprise. On entend par « contribution politique », l'aide financière ou en nature apportée directement aux partis politiques, à leurs représentants élus ou aux personnes qui briguent une fonction politique. Les contributions financières incluent les dons, les prêts, les parrainages, les avances pour services, ou l'achat de billets pour des événements de collecte de fonds et d'autres pratiques similaires. <br>Les contributions en nature incluent la publication, l'utilisation d'installations, la conception et l'impression, le don de matériel, l'adhésion à un conseil d'administration, l'emploi ou le travail de consultance pour des responsables politiques élus ou des candidats à un mandat. <br>Par « contribution politique indirecte », on entend les contributions politiques apportées par l'intermédiaire d'une organisation (de lobbying ou caritative par exemple) ou l'aide apportée à une organisation, par exemple un groupe de réflexion ou une organisation professionnelle proche de certains partis ou de certaines causes politiques, ou qui soutient ces partis/causes.
+
+
+Answer: | Type de Contribution                 | Année | Montant         | Données Disponibles | Pays/Zones Géographiques | Bénéficiaire de la Contribution                          |
+|--------------------------------------|-------|-----------------|---------------------|--------------------------|--------------------------------------------------------|
+| Contributions Financières Directes   | 2024  | 70 250 euros    | Oui                 | États-Unis               | Candidats et groupes d'élus                             |
+|                                      | 2023  | 50 750 euros    | Oui                 | États-Unis               | Candidats et groupes d'élus                             |
+|                                      | 2022  | 77 800 euros    | Oui                 | États-Unis               | Candidats et groupes d'élus                             |
+| Contributions Financières Indirectes | 2024  | 224 100 euros   | Oui                 | États-Unis               | Sanofi US Employee's Political Action Committee (PAC)   |
+|                                      | 2023  | 328 000 euros   | Oui                 | États-Unis               | Sanofi US Employee's Political Action Committee (PAC)   |
+|                                      | 2022  | 315 550 euros   | Oui                 | États-Unis               | Sanofi US Employee's Political Action Committee (PAC)   |
+| Contributions en Nature              | N/A   | Non quantifiées | Non                 | Global                  | Conférenciers, sites de conférence, outils informatiques |
+
+Note : Les contributions en nature ne sont pas quantifiées, mais elles incluent la mise à disposition de conférenciers, de sites de conférence et d'outils informatiques. Sanofi n'accorde aucune contribution politique en nature dans le cadre de son lobbying.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les mesures prises pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption? Pour répondre à cette question, s'intéresser aux mesures de détection, aux mesures de remédiation et à l'engagement continu en matière de lutte anti-corruption.
+
+
+Context: 24(b) Toute mesure prise pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption.
+
+
+Answer: Les mesures prises pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption chez Sanofi incluent plusieurs aspects :
+
+1. **Mesures de détection** :
+   - **Système de signalement des alertes** : Un canal sécurisé et confidentiel est mis en place pour permettre aux salariés et aux partenaires extérieurs de signaler toute activité suspecte.
+   - **Enquêtes, suivi et audit** : Il existe une procédure rigoureuse pour enquêter sur les problèmes signalés, avec un suivi actif par une fonction d'audit interne indépendante.
+   - **Utilisation de l'intelligence artificielle** : L'IA est utilisée pour détecter des schémas et mener des analyses prédictives, afin de surveiller les événements virtuels et détecter d'éventuelles anomalies.
+
+2. **Mesures de remédiation** :
+   - **Actions correctrices/amélioration des programmes** : Des mesures sont prises pour résoudre rapidement et efficacement les problèmes identifiés.
+   - **Actions disciplinaires et sanctions** : Des mesures disciplinaires appropriées sont appliquées à l'encontre des personnes qui commettent des infractions aux politiques de lutte contre la corruption, avec une politique de tolérance zéro qui peut aboutir au licenciement.
+
+3. **Engagement continu** :
+   - La politique anticorruption de Sanofi et ses actions connexes sont mises en œuvre de manière continue, constituant un processus permanent d'amélioration dans un environnement réglementaire, politique et économique dynamique.
+   - Les mesures de formation font l'objet d'un rapport annuel, incluant des formations spécifiques à la lutte et la détection de la corruption ainsi qu'à la divulgation des conflits d'intérêts.
+
+Ces mesures montrent l'engagement de Sanofi à maintenir et renforcer une position inflexible contre les pratiques contraires à l'éthique.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les émissions totales du Scope 2, calculées grâce à la méthode "location-based" ?
+
+
+Context: nan
+
+
+Answer: Les émissions totales du Scope 2, calculées grâce à la méthode "location-based", sont de 318 252 tCO2eq.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les émissions totales du Scope 2, calculées grâce à la méthode "market-based" ?
+
+
+Context: nan
+
+
+Answer: Les émissions totales du Scope 2, calculées grâce à la méthode "market-based", sont de 75 864 tCO2eq.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Intensité des émissions totales du groupe : <br> Calculez l'intensité des émissions de gaz à effet total dans l'année 2024. <br><br> Le calcul consiste à diviser les émissions totales par le chiffre d'affaires. <br> Le calcul consiste à diviser les émissions totales par le chiffre d'affaires. <br> L'unité est tCO2e/€m. <br> Il faut présenter le total de chiffres d'affaires utilisé pour calculer l'intensité en GES. <br> Privilégier l'utilisation d'un tableau pour présenter les résultats. <br> Donner les années précédentes si l'information est disponible.
+
+
+Context: nan
+
+
+Answer: Je vais calculer l'intensité des émissions totales de gaz à effet de serre (GES) pour le groupe Sanofi pour l'année 2024, ainsi que pour les années précédentes si l'information est disponible. L'intensité est calculée en divisant les émissions totales de GES par le chiffre d'affaires net, et elle est exprimée en tCO2e/€m.
+
+### Tableau des Intensités des Émissions Totales de GES
+
+| Année | Émissions Totales de GES (location-based) (tCO2eq) | Chiffre d'Affaires Net (M€) | Intensité (tCO2e/€m) |
+|-------|----------------------------------------------------|-----------------------------|----------------------|
+| 2024  | 4 439 364                                          | 46 539                      | 95,4                 |
+| 2023  | 4 689 631                                          | 43 070                      | 108,8                |
+| 2022  | 4 962 436                                          | 42 997                      | 115,4                |
+| 2019  | 5 072 809                                          | 36 126                      | 140,4                |
+
+### Notes :
+- Les émissions totales de GES (location-based) pour chaque année ont été utilisées pour le calcul.
+- Les chiffres d'affaires nets utilisés pour les calculs sont directement extraits des informations fournies.
+- L'intensité est calculée selon la formule : 
+  \[
+  \text{Intensité} = \frac{\text{Émissions Totales de GES}}{\text{Chiffre d'Affaires Net}}
+  \]
+- Les résultats sont arrondis à une décimale pour l'intensité.
+  
+Si vous avez besoin d'autres informations ou d'une analyse plus détaillée, n'hésitez pas à demander.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Je souhaite connaître les valeurs liées aux objectifs de réduction du plan de transition. Plusieurs types de réponses sont possibles : <br><br> La valeur brute de réduction des gaz à effet de serre (GES), séparée par Scope (1, 2 et 3). <br> Les cibles de réduction des gaz à effet de serre (GES), exprimées en pourcentage par rapport à une année de référence, séparées par Scope (1, 2 et 3). <br> Les cibles de réduction en intensité monétaire, séparées par Scope (1, 2 et 3). <br> Il est important de distinguer les cibles par secteur d'activité. <br> Si les objectifs concernent les émissions financées, il est important de préciser le périmètre concerné (Scope 1, 2 ou 3). <br> Si possible, préciser la méthodologie utilisée pour fixer l'objectif de référence. <br> Si possible, préciser si l'objectif est conforme à un scénario de réduction aligné avec l'Accord de Paris. <br> Merci de bien indiquer les années de référence ainsi que les années cibles pour chaque objectif présenté.
+
+
+Context: nan
+
+
+Answer: Voici les informations disponibles concernant les objectifs de réduction des gaz à effet de serre (GES) de Sanofi :
+
+1. **Valeur brute de réduction des GES, séparée par Scope :**
+   - Les émissions de scope 1 ont été réduites de 31,6 % en 2024 par rapport à l'année de référence 2019. Les émissions brutes de scope 1 en 2019 étaient de 436 420 tCO2eq.
+   - Les valeurs brutes spécifiques pour les scopes 2 et 3 ne sont pas fournies dans le texte.
+
+2. **Cibles de réduction des GES, exprimées en pourcentage par rapport à une année de référence, séparées par Scope :**
+   - **Scopes 1 et 2 :** Réduction de 55 % d'ici 2030 par rapport à l'année de référence 2019.
+   - **Scope 3 :** Réduction de 30 % d'ici 2030 par rapport à l'année de référence 2019.
+   - **Scopes 1, 2, et 3 :** Objectif de zéro émission nette d'ici 2045, avec une réduction de 90 %.
+
+3. **Méthodologie utilisée pour fixer l'objectif de référence :**
+   - Pour le scope 3, l'objectif est modélisé à l'aide de l'Approche de la contraction absolue (ACA).
+   - Les objectifs pour les scopes 1 et 2 ainsi que pour l'objectif zéro émission nette sont validés par l'initiative SBTi (Science Based Targets initiative) et sont alignés avec une trajectoire de 1,5 ℃ pour les scopes 1 et 2, et de 2 ℃ pour le scope 3.
+
+4. **Conformité avec un scénario de réduction aligné avec l'Accord de Paris :**
+   - Les objectifs pour les scopes 1 et 2 à l'horizon 2030 et pour le zéro émission nette à l'horizon 2045 sont compatibles avec une trajectoire de 1,5 ℃.
+   - L'objectif pour le scope 3 atteint l'ambition minimale relative à la trajectoire de 2 ℃.
+
+5. **Années de référence et années cibles pour chaque objectif :**
+   - Année de référence : 2019
+   - Années cibles : 2030 pour les réductions de 55 % (scopes 1 et 2) et 30 % (scope 3), et 2045 pour l'objectif zéro émission nette (scopes 1, 2, et 3).
+
+Les informations concernant les cibles de réduction en intensité monétaire, la distinction par secteur d'activité, et les émissions financées ne sont pas spécifiées dans le texte fourni.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Prompt : Quelles sont les émissions de gaz à effet de serre liées à la Catégorie 15 du GHG Protocol : émissions financées ? <br><br> Pour répondre à cette question, veuillez : <br> Distinguer, si possible, les secteurs d'activité, emplacements géographiques ou le type d'actifs financés. <br> Indiquer les émissions financées provenant du portefeuille des investissements disponibles. <br> Distinguer le type de financement (investissement, prêt, etc.). <br> Veuillez noter que si l'entreprise étudiée n'a pas inclus cette catégorie dans son inventaire des émissions. <br> Dans ce cas, merci de préciser que cette information n'est pas disponible et la raison pour laquelle elle n'est pas disponible.
+
+
+Context: nan
+
+
+Answer: Je ne sais pas. L'entreprise étudiée, Sanofi, n'a pas inclus la Catégorie 15 du GHG Protocol, concernant les émissions financées, dans son inventaire des émissions. Par conséquent, cette information n'est pas disponible.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: L'entreprise est-elle concernée par les critères d'exclusion des indices de référence de l'Accord de Paris ? Pour répondre à cette question, il convient de déterminer si l'entreprise possède l'une des caractéristiques suivantes: <br><br> Elle participe à la production ou à la commercialisation d'armes controversées <br> Elle est impliquée dans la culture ou la production de tabac <br> Elle ne respecte pas les principes directeurs de l'OCDE ou viole les principes du Pacte mondial des Nations Unies. <br> Elle tire au moins 1% de son chiffre d'affaires des énergies fossiles. <br><br> Si l'une de ces caractéristiques est avérée, l'entreprise est concernée par les critères d'exclusion. En revanche, si aucune information n'est disponible concernant ces caractéristiques, cela signifie que l'entreprise n'est pas concernée par les critères d'exclusion de l'indice de référence de l'Accord de Paris.
+
+
+Context: nan
+
+
+Answer: L'entreprise, Sanofi, n'est pas concernée par les critères d'exclusion des indices de référence de l'Accord de Paris. En effet, les informations disponibles indiquent que Sanofi ne participe pas à la production ou à la commercialisation d'armes controversées, n'est pas impliquée dans la culture ou la production de tabac, et ne tire pas au moins 1% de son chiffre d'affaires des énergies fossiles. De plus, il n'y a pas d'indication que Sanofi ne respecte pas les principes directeurs de l'OCDE ou viole les principes du Pacte mondial des Nations Unies. Par conséquent, Sanofi ne remplit aucune des conditions qui entraîneraient son exclusion selon les critères mentionnés.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Décrivez la manière dont le plan de transition pour l'atténuation des risques climatiques est intégré dans la stratégie commerciale globale la planification financière de l'entreprise.
+
+
+Context: nan
+
+
+Answer: Le plan de transition pour l'atténuation des risques climatiques de Sanofi est intégré de manière approfondie dans sa stratégie commerciale globale et sa planification financière. La feuille de route Planet Care de Sanofi est un élément essentiel de ses procédures de planification financière stratégique, ce qui signifie que les projets d'atténuation et d'adaptation au changement climatique sont intégrés dans ce processus. Ce processus est annuel et culmine avec l'approbation par la Direction des principaux investissements stratégiques sur un horizon de dix ans. Cela permet à Sanofi de s'assurer que ses plans d'adaptation et d'atténuation des risques climatiques sont alignés avec ses objectifs commerciaux à long terme.
+
+En outre, Sanofi suit un cadre aligné avec la Task Force on Climate-Related Financial Disclosures (TCFD) pour identifier les risques et opportunités climatiques, et élaborer des plans d'adaptation. La stratégie inclut l'approvisionnement en électricité renouvelable à 100 % d'ici 2030, la promotion d'une flotte automobile éco-responsable, et l'engagement de la chaîne d'approvisionnement à réduire ses émissions scope 3.
+
+L'intégration se fait aussi par l'analyse des risques physiques et de transition liés au changement climatique, mise à jour régulièrement, et intégrée dans la préparation de la clôture des comptes. Les tests de dépréciation de la valeur des actifs tiennent compte des hypothèses climatiques, telles que l'évolution du coût de l'énergie. Ces éléments montrent que Sanofi intègre de manière systématique et stratégique les risques et opportunités climatiques dans sa planification financière et sa stratégie commerciale globale.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelle est la répartition par sexe, exprimée en pourcentage, au niveau de l'encadrement supérieur de l'entreprise ? <br><br> Pour répondre à cette question, merci de fournir : <br> Le pourcentage de femmes occupant des postes d'encadrement supérieur. <br> Le pourcentage d'hommes occupant des postes d'encadrement supérieur. 
+
+
+Context: <br> Si possible, inclure des données comparatives sur l'évolution de cette répartition au fil des années.
+
+
+Answer: La répartition par sexe, exprimée en pourcentage, au niveau de l'encadrement supérieur de l'entreprise est la suivante :
+
+- Pourcentage de femmes occupant des postes d'encadrement supérieur : 43,0 %.
+- Pourcentage d'hommes occupant des postes d'encadrement supérieur : 57,0 %.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Renseignez le pourcentage total de salariés en situation de handicap. 
+
+
+Context: Si possible, donnez des informations sur l'évolution de ce pourcentage au fil des années.
+
+
+Answer: Je ne sais pas. Les informations fournies ne mentionnent pas le pourcentage de salariés en situation de handicap.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: L'entreprise communique-t-elle toutes les informations contextuelles nécessaires pour comprendre les données relatives aux salariés en situation de handicap et la manière dont elles ont été compilées ?
+
+
+Context: nan
+
+
+Answer: L'entreprise Sanofi communique certaines informations contextuelles nécessaires pour comprendre les données relatives aux salariés en situation de handicap. Elle a un objectif clair de rendre les lieux de travail accessibles à 100 % de ses salariés en situation de handicap d'ici 2025, en utilisant le Global Accessibility Standard. Sanofi a également étendu le standard d'accessibilité pour inclure de nouvelles catégories d'infrastructures et a mis en place des audits pour mesurer le niveau d'accessibilité des sites selon une classification (Bronze, Argent, Or, Platine). En outre, Sanofi a lancé son premier standard d'accessibilité numérique pour garantir que toutes ses solutions numériques soient accessibles.
+
+Cependant, concernant la manière dont les données ont été compilées, les informations précises ne sont pas entièrement détaillées dans le contexte fourni. Les efforts pour garantir la qualité des données et l'automatisation via la plateforme de visualisation sont mentionnés, mais les détails spécifiques sur la compilation des données relatives aux salariés en situation de handicap ne sont pas explicitement décrits.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est l'écart de rémunération entre les femmes et les hommes au sein de l'entreprise, en tenant compte des données pour l'année de référence ainsi que pour les deux années antérieures, si ces informations ont déjà été publiées dans le passé ?
+
+
+Context: nan
+
+
+Answer: Je suis désolé, mais les informations concernant l'écart de rémunération entre les femmes et les hommes pour les années antérieures à 2024 ne sont pas fournies dans le contexte disponible. Je ne peux donc pas répondre à cette question avec précision. Pour l'année de référence 2024, Sanofi affiche un écart de rémunération de 5,5 % en faveur des femmes au niveau mondial.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est le ratio de rémunération totale annuelle au sein de l'entreprise ? <br><br> Pour répondre à cette question, merci de fournir : <br><br> Le montant total de la rémunération annuelle pour les employés (y compris les salaires, les primes, les avantages et autres compensations). <br> Des détails sur la méthodologie utilisée pour calculer ce ratio, y compris les critères pris en compte. <br> Si disponible, des informations sur l'évolution de ce ratio au fil des années, ainsi que des comparaisons avec des normes sectorielles ou des benchmarks.
+
+
+Context: nan
+
+
+Answer: Je suis désolé, mais je ne dispose pas des informations spécifiques concernant le montant total de la rémunération annuelle pour les employés de Sanofi, y compris les salaires, les primes, les avantages et autres compensations. De plus, il n'y a pas de détails précis sur la méthodologie complète utilisée pour calculer le ratio de rémunération totale annuelle dans les informations fournies. 
+
+Cependant, je peux vous indiquer que le ratio de rémunération est calculé en comparant la rémunération des dirigeants mandataires sociaux, comme le Président du Conseil d'administration, à la rémunération moyenne et médiane des salariés. Ce calcul prend en compte la rémunération de base annualisée, la rémunération variable liée à l'année précédente, et les actions de performance attribuées, en utilisant les taux de change moyens de l'année concernée.
+
+L'évolution des ratios est présentée dans les données fournies, montrant des variations annuelles pour la période de 2020 à 2024. Par exemple, le ratio par rapport à la rémunération moyenne des salariés a évolué de 9,98 en 2020 à 10,28 en 2024, et le ratio par rapport à la rémunération médiane est passé de 12,87 en 2020 à 13,06 en 2024.
+
+Pour des comparaisons avec des normes sectorielles ou des benchmarks, il n'y a pas d'informations disponibles dans le texte fourni. Je vous conseille de consulter des études sectorielles ou des rapports d'analyse pour obtenir ces données comparatives.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est le ratio de la rémunération annuelle totale de la personne la mieux payée par rapport à la rémunération totale annuelle médiane de tous les salariés (à l'exclusion de la personne la mieux rémunérée) au sein de l'entreprise ?
+
+
+Context: nan
+
+
+Answer: Je ne sais pas. Les informations fournies ne spécifient pas directement le ratio de la rémunération annuelle totale de la personne la mieux payée par rapport à la rémunération totale annuelle médiane de tous les salariés, à l'exclusion de la personne la mieux rémunérée.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+

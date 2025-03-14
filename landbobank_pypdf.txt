@@ -1,0 +1,487 @@
+Question: Quel est le plan de transition pour l'atténuation du changement climatique ? Pour répondre à cette question, nous souhaitons avoir une description brève des principaux leviers de décarbonation, du plan d'investissement et de financement du plan de transition, et de la comptabilité avec un scénario 1,5°C ou 2°C.
+
+
+Context: Parmi les informations que nous recherchons, nous pouvons lister les éléments suivants : <br><br>Plan de transition est aligné avec un scénario 1,5°C. <br><br>Leviers de décarbonation programmés. <br><br>Plan d'investissement et de financement des leviers de décarbonation. <br><br>Alignement de la stratégie et le plan de financement. <br><br>Suivi des progrès.
+
+
+Answer: Le plan de transition pour l'atténuation du changement climatique de la banque inclut plusieurs leviers de décarbonation clés. Les principaux efforts se concentrent sur la réduction des émissions de CO2e dans les prêts et investissements (scope 3), qui représentent la majorité des émissions totales de la banque. La banque a fixé des sous-objectifs pour réduire les émissions de CO2e de 45% par million de DKK prêté et de 50% par million de DKK investi d'ici 2030, par rapport à 2020. Ces objectifs tiennent compte des réductions déjà réalisées au niveau sociétal.
+
+Le plan d'investissement et de financement du plan de transition comprend des dialogues climatiques avec certains clients, un scoring ESG des investissements, ainsi que de nouveaux outils et offres de produits ESG. La banque continuera d'évaluer ces initiatives et d'ajuster ses actions si nécessaire pour atteindre ses objectifs.
+
+En termes de comptabilité avec un scénario climatique, le plan de transition est aligné sur la Loi européenne sur le climat et l'objectif de l'Accord de Paris de limiter la hausse de la température mondiale à moins de 2 degrés, tout en visant à limiter l'augmentation à 1,5 degré au-dessus des niveaux préindustriels. La banque a effectué des analyses de risques en accord avec ce scénario climatique, bien que l'impact précis sur ses activités de prêt ne soit pas encore quantifié en raison du manque de données sur les émissions de CO2e de ses emprunteurs.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Les objectifs de réduction fixés sont-ils alignés avec une trajectoire de 1,5°C conformément aux Accords de Paris ? L'entreprise mentionne-t-elle une trajectoire conforme aux objectifs SBTi ? Il convient également de noter que, si l'entreprise affiche des objectifs de neutralité carbone, cette neutralité doit nécessairement être alignée avec les recommandations de l'Accord de Paris.
+
+
+Context: Pour garantir la compatibilité avec un scénario de transition conforme à l'accord de Paris, l'entreprise doit fournir les informations suivantes : <br><br>- Un/des objectif(s) de réduction avec une trajectoire de réchauffement à 1,5°C grâce à une trajectoire de décarbonation sectorielle si disponible, soit grâce à une trajectoire d'émissions transsectorielle compatible avec la limitation de réchauffement de la planète à 1,5°C (cf. AR 26 et 27). <br><br>- Les facteurs de réduction des émissions évoluent et ne sont pas fixes encore. Par conséquent, les entreprises sont encouragées à n'utiliser que des informations actualisées et publiquement accessibles. L'EFRAG préconise Pathways to Net-Zero - SBTi Technical Summary). Les cibles de réduction doivent être fixées respectivement à 2030 et 2050, avec des échellons tous les 5 ans. 
+
+
+Answer: Les objectifs de réduction fixés par l'entreprise sont alignés avec les objectifs de l'Accord de Paris, notamment en soutenant la loi climatique européenne et en visant à limiter l'augmentation de la température mondiale bien en dessous de 2 degrés, tout en poursuivant les efforts pour limiter cette augmentation à 1,5 degré au-dessus des niveaux préindustriels. Cependant, le texte ne mentionne pas explicitement une trajectoire conforme aux objectifs de l'initiative Science Based Targets (SBTi). Concernant la neutralité carbone, l'entreprise vise à atteindre la neutralité carbone d'ici 2050, ce qui est en ligne avec les recommandations de l'Accord de Paris.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quels sont les leviers de décarbonation identifiés dans le plan de transition de l'entreprise ? Pour répondre à cette question, nous souhaitons avoir la liste ou les noms des actions menées, accompagnées d'une description simple. Si possible, afficher les objectifs de réduction pour chacune des actions, avec l'année cible et l'année de référence.
+
+
+Context: <br><br>1. Nom de l'action ou du projet de réduction. <br>2. Métrique. <br>3. Périmètre des émissions (Scope 1, 2 ou 3). <br>4. Année de référence. <br>5. Objectif de réduction. <br>6. Année cible. Des informations moins primordiales, mais souhaitables pourraient être : <br><br>- La méthodologie utilisée ou l'initiative correspondante. <br>- Les objectifs intermédiaires (2030, 2035, 2040, 2045). 
+
+
+Answer: Les leviers de décarbonation identifiés dans le plan de transition de l'entreprise incluent plusieurs initiatives visant à réduire les émissions de CO2e, principalement dans les portefeuilles de prêts et d'investissements, ainsi que dans les opérations internes de la banque. Voici une liste des actions menées, accompagnée d'une description simple et des objectifs de réduction associés :
+
+1. **Réduction de l'intensité des émissions de CO2e des prêts financés** :
+   - **Description** : Réduction de l'intensité des émissions de CO2e des prêts, en particulier pour les secteurs commerciaux et agricoles.
+   - **Objectif de réduction** : 45% par DKK million prêté.
+   - **Année cible** : 2030.
+   - **Année de référence** : 2020.
+
+2. **Réduction de l'intensité des émissions de CO2e des investissements** :
+   - **Description** : Réduction de l'intensité des émissions de CO2e dans les investissements, comprenant la gestion d'actifs et le portefeuille propre de la banque.
+   - **Objectif de réduction** : 50% par DKK million investi.
+   - **Année cible** : 2030.
+   - **Année de référence** : 2020.
+
+3. **Réduction des émissions de CO2e des opérations internes (scope 1 et 2)** :
+   - **Description** : Mise en œuvre de diverses initiatives pour réduire les émissions provenant des opérations internes de la banque, comme l'amélioration de l'efficacité énergétique des bâtiments et la transition vers des sources d'énergie renouvelable.
+   - **Objectif de réduction** : 60% des émissions de CO2e.
+   - **Année cible** : 2030.
+   - **Année de référence** : 2019.
+
+4. **Dialogues climatiques avec certains clients** :
+   - **Description** : Engagement avec des clients pour discuter des initiatives climatiques et encourager des pratiques commerciales plus durables.
+
+5. **Évaluation ESG des investissements** :
+   - **Description** : Intégration de critères environnementaux, sociaux et de gouvernance (ESG) dans le scoring des investissements pour encourager des choix plus durables.
+
+6. **Développement de nouveaux outils et offres de produits ESG** :
+   - **Description** : Élaboration d'outils et de produits financiers qui favorisent l'adoption de pratiques durables par les clients.
+
+Ces leviers font partie d'une démarche globale visant à aligner les activités de la banque avec les objectifs climatiques de l'Accord de Paris et de la législation climatique européenne, en visant la neutralité carbone d'ici 2050.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Prompt: Quelle est la valeur monétaire des contributions politiques, financières et en nature apportées directement et indirectement par l'entreprise ? <br><br>Consignes: Distinguer le montant total des contributions financières directes, des contributions financières indirectes et des contributions en nature. <br>Pour chaque type de contribution, indiquer si les données sont disponibles, ainsi que le pays ou la zone géographique et le bénéficiaire de la contribution. <br>Présenter les données sous forme de tableau, avec les années et les montants respectifs. <br>Veuillez noter que si ces valeurs ne sont pas affichées, cela peut être interprété comme un signe que l'entreprise ne verse pas de contributions politiques ou d'autres contributions financières liées à l'influence et aux pratiques de lobbying.
+
+
+Context: Contexte: Pour cette question, nous analysons les activités et politiques de lobbying de l'entreprise. On entend par « contribution politique », l'aide financière ou en nature apportée directement aux partis politiques, à leurs représentants élus ou aux personnes qui briguent une fonction politique. Les contributions financières incluent les dons, les prêts, les parrainages, les avances pour services, ou l'achat de billets pour des événements de collecte de fonds et d'autres pratiques similaires. <br>Les contributions en nature incluent la publication, l'utilisation d'installations, la conception et l'impression, le don de matériel, l'adhésion à un conseil d'administration, l'emploi ou le travail de consultance pour des responsables politiques élus ou des candidats à un mandat. <br>Par « contribution politique indirecte », on entend les contributions politiques apportées par l'intermédiaire d'une organisation (de lobbying ou caritative par exemple) ou l'aide apportée à une organisation, par exemple un groupe de réflexion ou une organisation professionnelle proche de certains partis ou de certaines causes politiques, ou qui soutient ces partis/causes.
+
+
+Answer: Je ne sais pas. Les informations fournies ne contiennent pas de détails sur les contributions politiques, financières et en nature de l'entreprise, ni sur les montants ou les bénéficiaires associés. Si ces valeurs ne sont pas affichées dans les rapports disponibles, cela peut être interprété comme un signe que l'entreprise ne verse pas de contributions politiques ou d'autres contributions financières liées à l'influence et aux pratiques de lobbying.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les mesures prises pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption? Pour répondre à cette question, s'intéresser aux mesures de détection, aux mesures de remédiation et à l'engagement continu en matière de lutte anti-corruption.
+
+
+Context: 24(b) Toute mesure prise pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption.
+
+
+Answer: Les mesures prises par la banque pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption incluent plusieurs volets :
+
+1. **Détection** : 
+   - Toute suspicion ou incident de corruption et de pot-de-vin doit être signalé immédiatement à un supérieur hiérarchique, au département des ressources humaines de la banque, et au département de gestion des risques opérationnels et de lutte contre le blanchiment d'argent. 
+   - Les employés ont également la possibilité de signaler les incidents via le système interne de dénonciation de la banque.
+
+2. **Remédiation** :
+   - La personne responsable, soit le chef du département des ressources humaines ou un individu autorisé dans le cadre du système de dénonciation, est chargée d'examiner et de traiter les incidents potentiels de manière indépendante par rapport aux parties impliquées.
+   - Des actions d'atténuation seront prises en cas de conflit d'intérêts.
+
+3. **Engagement continu** :
+   - Tous les employés doivent lire le code de conduite chaque année et confirmer leur compréhension.
+   - Les nouveaux employés reçoivent le code de conduite à lire lors de leur intégration et doivent également consulter le manuel de l'employé.
+   - La direction générale est responsable de la mise en œuvre et du respect de la politique anti-corruption, et le conseil d'administration est chargé de la révision et de la mise à jour de la politique au moins une fois par an.
+
+Ces mesures montrent un engagement clair de la banque à maintenir des normes élevées en matière de lutte anti-corruption, en mettant l'accent sur la prévention, la détection et la correction des infractions potentielles.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les émissions totales du Scope 2, calculées grâce à la méthode "location-based" ?
+
+
+Context: nan
+
+
+Answer: Les émissions totales du Scope 2, calculées grâce à la méthode "location-based", sont de 404 tonnes de CO2e en 2024.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les émissions totales du Scope 2, calculées grâce à la méthode "market-based" ?
+
+
+Context: nan
+
+
+Answer: Les émissions totales du Scope 2, calculées grâce à la méthode "market-based", sont de 136 tonnes de CO2e pour l'année 2024.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Intensité des émissions totales du groupe : <br> Calculez l'intensité des émissions de gaz à effet total dans l'année 2024. <br><br> Le calcul consiste à diviser les émissions totales par le chiffre d'affaires. <br> Le calcul consiste à diviser les émissions totales par le chiffre d'affaires. <br> L'unité est tCO2e/€m. <br> Il faut présenter le total de chiffres d'affaires utilisé pour calculer l'intensité en GES. <br> Privilégier l'utilisation d'un tableau pour présenter les résultats. <br> Donner les années précédentes si l'information est disponible.
+
+
+Context: nan
+
+
+Answer: Je suis désolé, mais les informations concernant le chiffre d'affaires total pour calculer l'intensité des émissions de gaz à effet de serre ne sont pas disponibles dans le contexte fourni. Par conséquent, je ne peux pas calculer l'intensité des émissions de gaz à effet de serre pour l'année 2024 ou pour les années précédentes.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Je souhaite connaître les valeurs liées aux objectifs de réduction du plan de transition. Plusieurs types de réponses sont possibles : <br><br> La valeur brute de réduction des gaz à effet de serre (GES), séparée par Scope (1, 2 et 3). <br> Les cibles de réduction des gaz à effet de serre (GES), exprimées en pourcentage par rapport à une année de référence, séparées par Scope (1, 2 et 3). <br> Les cibles de réduction en intensité monétaire, séparées par Scope (1, 2 et 3). <br> Il est important de distinguer les cibles par secteur d'activité. <br> Si les objectifs concernent les émissions financées, il est important de préciser le périmètre concerné (Scope 1, 2 ou 3). <br> Si possible, préciser la méthodologie utilisée pour fixer l'objectif de référence. <br> Si possible, préciser si l'objectif est conforme à un scénario de réduction aligné avec l'Accord de Paris. <br> Merci de bien indiquer les années de référence ainsi que les années cibles pour chaque objectif présenté.
+
+
+Context: nan
+
+
+Answer: Voici les informations concernant les objectifs de réduction des gaz à effet de serre (GES) du plan de transition de la banque, séparées par Scope et détaillées selon les informations disponibles :
+
+1. **Valeurs brutes de réduction des GES, séparées par Scope :**
+
+   - **Scope 1 et 2 :**
+     - L'objectif est de réduire les émissions à 135 tonnes de CO2e en 2030.
+     - Réduction de 60% des émissions de Scope 1 et 2 de 2019 à 2030.
+
+   - **Scope 3 :**
+     - Pour les prêts financés, une diminution d'environ 189,000 tonnes de CO2e en 2030 est prévue, en utilisant 2020 comme année de référence.
+     - Pour les investissements, une diminution d'environ 93,000 tonnes de CO2e en 2030 est prévue, toujours avec 2020 comme année de référence.
+
+2. **Cibles de réduction des GES, exprimées en pourcentage par rapport à une année de référence :**
+
+   - **Scope 1 et 2 :**
+     - Réduction de 60% par rapport à l'année de référence 2019, ciblant l'année 2030.
+
+   - **Scope 3 :**
+     - Réduction de 45% de l'intensité des émissions pour les prêts financés de 2020 à 2030.
+     - Réduction de 50% de l'intensité des émissions pour les investissements de 2020 à 2030.
+
+3. **Cibles de réduction en intensité monétaire, séparées par Scope :**
+
+   - **Scope 3 :** 
+     - Pour les prêts financés, la réduction visée est à 5.68 tonnes de CO2e par DKK million prêté d'ici 2030, en partant de 10.32 tonnes en 2020.
+     - Pour les investissements, la réduction visée est à 4.83 tonnes de CO2e par DKK million investi d'ici 2030, en partant de 9.66 tonnes en 2020.
+
+4. **Méthodologie et conformité avec l'Accord de Paris :**
+
+   - Les objectifs de réduction sont alignés avec les cibles climatiques de l'UE et l'Accord de Paris. La méthodologie utilisée pour fixer les objectifs inclut l'utilisation des principes communs et des méthodes développées par le secteur financier au Danemark. Les données utilisées pour les calculs sont basées sur des moyennes et peuvent évoluer avec l'amélioration de la qualité des données spécifiques aux entreprises.
+
+5. **Années de référence et cibles :**
+
+   - Année de référence : 2020 pour les prêts financés et les investissements (Scope 3), 2019 pour les émissions internes de l'opération de la banque (Scope 1 et 2).
+   - Année cible : 2030 pour les objectifs intermédiaires, 2050 pour la neutralité carbone.
+
+Ces informations montrent comment la banque se concentre sur la réduction des émissions de carbone dans le cadre de son plan de transition, tout en s'alignant sur les standards climatiques internationaux.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Prompt : Quelles sont les émissions de gaz à effet de serre liées à la Catégorie 15 du GHG Protocol : émissions financées ? <br><br> Pour répondre à cette question, veuillez : <br> Distinguer, si possible, les secteurs d'activité, emplacements géographiques ou le type d'actifs financés. <br> Indiquer les émissions financées provenant du portefeuille des investissements disponibles. <br> Distinguer le type de financement (investissement, prêt, etc.). <br> Veuillez noter que si l'entreprise étudiée n'a pas inclus cette catégorie dans son inventaire des émissions. <br> Dans ce cas, merci de préciser que cette information n'est pas disponible et la raison pour laquelle elle n'est pas disponible.
+
+
+Context: nan
+
+
+Answer: Les émissions de gaz à effet de serre liées à la Catégorie 15 du GHG Protocol, qui correspondent aux émissions financées, sont bien incluses dans l'inventaire de Ringkjøbing Landbobank A/S. Pour l'année 2024, les émissions de cette catégorie ont été calculées à 545,062 tonnes de CO2e. Cette catégorie comprend les émissions provenant des prêts financés, des investissements en gestion d'actifs, du portefeuille d'investissements propre à la banque, ainsi que des opérations informatiques.
+
+Il est mentionné que l'augmentation des émissions en 2024 est principalement due à des changements dans les portefeuilles d'investissement, ce qui a entraîné une intensité d'émission de CO2e plus élevée pour les investissements. Les émissions provenant des investissements ont augmenté de 50,229 tonnes de CO2e par rapport à 2023, tandis que les émissions provenant des prêts financés ont diminué de 26,105 tonnes.
+
+Cependant, le document ne fournit pas de détails spécifiques sur les secteurs d'activité, les emplacements géographiques ou le type d'actifs financés dans cette catégorie. La distinction entre les types de financement, tels que les investissements ou les prêts, est partiellement faite en indiquant que les émissions incluent celles provenant des prêts financés et des investissements en gestion d'actifs.
+
+En résumé, bien que certaines informations soient disponibles concernant les émissions financées de la Catégorie 15, le document ne détaille pas spécifiquement les secteurs, les emplacements géographiques ou les types d'actifs financés au sein de cette catégorie.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: L'entreprise est-elle concernée par les critères d'exclusion des indices de référence de l'Accord de Paris ? Pour répondre à cette question, il convient de déterminer si l'entreprise possède l'une des caractéristiques suivantes: <br><br> Elle participe à la production ou à la commercialisation d'armes controversées <br> Elle est impliquée dans la culture ou la production de tabac <br> Elle ne respecte pas les principes directeurs de l'OCDE ou viole les principes du Pacte mondial des Nations Unies. <br> Elle tire au moins 1% de son chiffre d'affaires des énergies fossiles. <br><br> Si l'une de ces caractéristiques est avérée, l'entreprise est concernée par les critères d'exclusion. En revanche, si aucune information n'est disponible concernant ces caractéristiques, cela signifie que l'entreprise n'est pas concernée par les critères d'exclusion de l'indice de référence de l'Accord de Paris.
+
+
+Context: nan
+
+
+Answer: D'après les informations fournies, l'entreprise semble être concernée par les critères d'exclusion des indices de référence de l'Accord de Paris pour les raisons suivantes :
+
+1. L'entreprise est impliquée dans la production ou la commercialisation d'armes controversées, comme indiqué par l'implication dans des activités liées à des armes controversées (ESRS 2 SBM -1 40 (d) iii)).
+
+2. Elle est impliquée dans la culture ou la production de tabac, comme indiqué par l'implication dans des activités liées à la culture et à la production de tabac (ESRS 2 SBM -1 40 (d) iv)).
+
+3. Elle ne respecte pas les principes directeurs de l'OCDE ou viole les principes du Pacte mondial des Nations Unies, comme indiqué par la non-conformité avec les UNGPs sur les droits de l'homme et les lignes directrices de l'OCDE (ESRS S1 -17 104 (a)).
+
+4. Enfin, elle est impliquée dans des activités liées aux combustibles fossiles, ce qui peut signifier qu'elle tire au moins 1% de son chiffre d'affaires des énergies fossiles (ESRS 2 SBM -1 40 (d) i)).
+
+Ainsi, l'entreprise est concernée par ces critères d'exclusion.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Décrivez la manière dont le plan de transition pour l'atténuation des risques climatiques est intégré dans la stratégie commerciale globale la planification financière de l'entreprise.
+
+
+Context: nan
+
+
+Answer: Le plan de transition pour l'atténuation des risques climatiques est intégré dans la stratégie commerciale globale et la planification financière de l'entreprise par le biais de plusieurs initiatives et objectifs clairs. Ce plan est articulé autour de la politique de responsabilité sociale d'entreprise et de durabilité, et vise principalement à réduire les émissions de CO2e. 
+
+Pour intégrer ce plan dans sa stratégie, l'entreprise a mis en place un plan de transition spécifique, approuvé par le conseil d'administration, qui définit des objectifs de réduction des émissions de CO2e d'ici 2030 et l'atteinte de la neutralité climatique d'ici 2050. La banque se concentre principalement sur les émissions indirectes (scope 3) provenant des prêts et investissements, qui constituent la majeure partie de son empreinte carbone. 
+
+Le plan inclut des sous-objectifs quinquennaux, comme la réduction de 45 % des émissions de CO2e par million de DKK prêté et de 50 % par million de DKK investi entre 2020 et 2030. Cela permet de soutenir la stratégie de croissance organique de la banque et d'acquérir de nouvelles parts de marché tout en étant aligné avec les lois climatiques européennes et l'accord de Paris.
+
+De plus, le plan s'accompagne de diverses initiatives qualitatives telles que des dialogues climatiques avec certains clients, le scoring ESG des investissements, et de nouveaux outils et offres de produits ESG. Ces initiatives sont régulièrement évaluées et ajustées si nécessaire pour s'assurer que la banque reste sur la bonne voie pour atteindre ses objectifs de réduction des émissions de CO2e. Enfin, la banque a également fixé un objectif de réduction de 60 % des émissions de ses propres opérations (scopes 1 et 2) d'ici 2030.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelle est la répartition par sexe, exprimée en pourcentage, au niveau de l'encadrement supérieur de l'entreprise ? <br><br> Pour répondre à cette question, merci de fournir : <br> Le pourcentage de femmes occupant des postes d'encadrement supérieur. <br> Le pourcentage d'hommes occupant des postes d'encadrement supérieur. 
+
+
+Context: <br> Si possible, inclure des données comparatives sur l'évolution de cette répartition au fil des années.
+
+
+Answer: Pour répondre à la question sur la répartition par sexe au niveau de l'encadrement supérieur de l'entreprise, les informations disponibles indiquent que :
+
+- Le pourcentage de femmes occupant des postes d'encadrement supérieur est de 25.4 %.
+- Le pourcentage d'hommes occupant des postes d'encadrement supérieur est de 74.6 % (100 % - 25.4 %).
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Renseignez le pourcentage total de salariés en situation de handicap. 
+
+
+Context: Si possible, donnez des informations sur l'évolution de ce pourcentage au fil des années.
+
+
+Answer: Je ne sais pas. Les informations fournies ne mentionnent pas le pourcentage de salariés en situation de handicap.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: L'entreprise communique-t-elle toutes les informations contextuelles nécessaires pour comprendre les données relatives aux salariés en situation de handicap et la manière dont elles ont été compilées ?
+
+
+Context: nan
+
+
+Answer: Non, l'entreprise ne communique pas toutes les informations contextuelles nécessaires concernant les salariés en situation de handicap. Les données relatives aux personnes en situation de handicap ne sont pas mentionnées dans les informations fournies, et le rapport semble indiquer que certains aspects, comme les métriques sur la santé et la sécurité, ne sont pas pertinents pour l'entreprise, ou ne sont pas rapportés.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est l'écart de rémunération entre les femmes et les hommes au sein de l'entreprise, en tenant compte des données pour l'année de référence ainsi que pour les deux années antérieures, si ces informations ont déjà été publiées dans le passé ?
+
+
+Context: nan
+
+
+Answer: L'écart de rémunération entre les hommes et les femmes au sein de l'entreprise, exprimé en pourcentage pour l'année de référence 2024, est de 24,5%. Pour les années antérieures, il n'existe pas de données publiées pour les années 2023, 2022 et 2021 concernant cet écart moyen. Cependant, le rapport fournit le ratio de l'écart de rémunération entre les sexes (médiane) à la fin de chaque année, qui était de 1,23 en 2024, 1,25 en 2023, 1,25 en 2022, et 1,26 en 2021.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est le ratio de rémunération totale annuelle au sein de l'entreprise ? <br><br> Pour répondre à cette question, merci de fournir : <br><br> Le montant total de la rémunération annuelle pour les employés (y compris les salaires, les primes, les avantages et autres compensations). <br> Des détails sur la méthodologie utilisée pour calculer ce ratio, y compris les critères pris en compte. <br> Si disponible, des informations sur l'évolution de ce ratio au fil des années, ainsi que des comparaisons avec des normes sectorielles ou des benchmarks.
+
+
+Context: nan
+
+
+Answer: Je suis désolé, mais les informations spécifiques concernant le montant total de la rémunération annuelle pour les employés, la méthodologie utilisée pour calculer ce ratio, ainsi que l'évolution de ce ratio au fil des années pour l'entreprise mentionnée ne sont pas fournies dans le contexte que vous avez partagé. Je ne suis donc pas en mesure de répondre précisément à cette question.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est le ratio de la rémunération annuelle totale de la personne la mieux payée par rapport à la rémunération totale annuelle médiane de tous les salariés (à l'exclusion de la personne la mieux rémunérée) au sein de l'entreprise ?
+
+
+Context: nan
+
+
+Answer: Je ne sais pas.
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
