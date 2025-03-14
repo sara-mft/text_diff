@@ -1,0 +1,1426 @@
+Question: Quel est le plan de transition pour l'atténuation du changement climatique ? Pour répondre à cette question, nous souhaitons avoir une description brève des principaux leviers de décarbonation, du plan d'investissement et de financement du plan de transition, et de la comptabilité avec un scénario 1,5°C ou 2°C.
+
+
+Context: Parmi les informations que nous recherchons, nous pouvons lister les éléments suivants : <br><br>Plan de transition est aligné avec un scénario 1,5°C. <br><br>Leviers de décarbonation programmés. <br><br>Plan d'investissement et de financement des leviers de décarbonation. <br><br>Alignement de la stratégie et le plan de financement. <br><br>Suivi des progrès.
+
+
+Answer: Le plan de transition pour l'atténuation du changement climatique de Spar Nord est centré sur plusieurs leviers principaux de décarbonation. Le principal levier est la réduction des émissions financées à travers les prêts et les investissements, en canalisant les financements vers des technologies à faibles émissions de carbone et des modèles économiques soutenant le climat. Spar Nord vise à réduire les émissions financées de 20 % d'ici 2025 et de 50 % d'ici 2030, par rapport à une base de référence de 2021.
+
+Le plan d'investissement et de financement du plan de transition implique un soutien substantiel aux solutions technologiques et aux modèles économiques qui favorisent la réduction des émissions de gaz à effet de serre. Cela inclut l'augmentation des prêts pour les voitures électriques, avec pour objectif que 80 % des nouveaux prêts auto soient destinés aux voitures électriques d'ici 2030, par rapport à une base de référence de 41 % en 2023.
+
+En ce qui concerne la compatibilité avec un scénario de réchauffement de 1,5°C ou 2°C, Spar Nord a aligné ses ambitions climatiques sur l'Accord de Paris, visant à atteindre la neutralité carbone d'ici 2050, avec une ambition supplémentaire d'atteindre la cible de 1,5°C. Cela implique un engagement à long terme pour réduire l'empreinte carbone de ses activités et de ses clients, contribuant ainsi à limiter le réchauffement planétaire conformément aux accords internationaux.
+
+
+Sources:
+
+
+		 Source:## Group management's report Financial reporting  
+### Climate plan  
+In 2024, Spar Nord prepared a climate plan, which is the Bank's version of the transition plan for cli- mate change mitigation. The climate plan has been approved by the Executive Board and Board of Directors of the Bank.  
+Spar Nord's Climate Plan sets out the Bank's cli- mate ambition of reaching net zero by 2050 in line with the Paris Agreement target of limiting global warming to 2℃ above pre-industrial levels, with a further ambition to achieve 1.5℃. Spar Nord under- stands that a responsible transition to net zero will require us, as a financial institution, to ensure on the one hand continued access to essential goods and services, while on the other hand focus- ing on transitioning key GHG-emitting sectors to low-emission or zero-emission technologies. This transformation of society will require significant investment and financing of technological solu- tions and climate-supporting business models - and this is precisely where we as a financial insti- tution must play an important role.  
+Spar Nord has chosen to target the Bank's climate ambition towards efforts that contribute to cli- mate change mitigation, as we believe that it is through decarbonisation of our customers' assets and activities that we can deliver the greatest positive impact. Decarbonisation occurs when we channel finance and investments in a more sus- tainable direction, e.g. by supporting new low-car- bon technologies or new climate-supporting busi- ness models.  
+Spar Nord is aware that so-called double count- ing can occur when we as a financial institution calculate the Bank's GHG emissions. Double count- ing can be particularly relevant in cases where both we and our customers assume net zero tar- gets and thus choose to compensate for the GHG emissions that cannot be reduced. In such cases, it
+
+____________________
+
+		 Source:The illustration gives an overview of the Bank's cli- mate-related targets. For each target, the base- line years and the sub-targets set for 2025 and 2030 are presented. The target achievement by the end of 2024 illustrates progress relative to the Bank's 2030 targets measured on the basis of the relevant baseline year.  
+| 0                              | 1    | 2                         | 3      | 4       | 5                                                                                                                                                     |
+|:-------------------------------|:-----|:--------------------------|:-------|:--------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Climate target Baseline        | year | Target achievement - 2030 | 2025   | 2030    | Target                                                                                                                                                |
+| Lending                        | 2021 |                           | - 20 % | - 50%   | Financed emissions from lending must be reduced by 20% by 2025 and 50% by 2030 relative to a 2021 baseline of 8.8 tCO2e per DKKm.                     |
+| Electric car                   | 2023 |                           |        | + 80%   | By 2030, 80% of all new loans for the financing of cars are to be for electric cars relative to a 2023 baseline of 41%.                               |
+|                                |      |                           |        |         | By 2030, financed emissions from lending to private                                                                                                   |
+
+____________________
+
+		 Source:capital flows around society. No portfolio-level climate stress tests are carried out yet.  
+In Spar Nord's current strategy 2023-2025, we have defined an ambition of being a committed bank. This strategic direction also applies to our contribution to the transition to a sustainable and climate-neutral society and activities aimed at climate change adaptation and mitigation. While adaptation involves protecting society against consequences of current and potential climate change, mitigation refers to activities aimed at decarbonisation of society.  
+Through Spar Nord's commitment to the UN Princi- ples for Responsible Banking, the Bank has previ- ously identified Sustainable Development Goal 13, Climate Action and climate change as the Bank's most important impact area, as the Bank is as- sessed to have both positive and negative impacts on climate change. It was also on the basis of the analyses from the work on the UN Principles for Responsible Banking that the Bank's core activi- ties were first identified as an important area of action in relation to climate change. This recogni- tion and conclusions from the analysis have been adopted in Spar Nord's double materiality assess- ment, where the Bank has performed a screening of assets and activities related to climate change as well as a mapping to identify where in the value chain the IROs materialise.  
+The table shows the significant IROs identified in relation to climate change and the related sus- tainability topics adaptation, mitigation and en- ergy. The table indicates where in the value chain the IROs materialise. Also listed are relevant inter- nal policies and measures that explain how the Bank addresses the IROs in practice.  
+E1
+
+____________________
+
+		 Source:### Climate change adaptation actions  
+Climate change adaptation is about making changes and adjustments to deal with existing and future consequences of climate change. This means focusing both in the short and long term on reducing the damage caused by climate change, which is already inevitable.  
+For Spar Nord, the Bank's climate change adapta- tion measures relate in particular to the assets and activities we finance through loans to our cus- tomers. For example, we assess that businesses with significant GHG emissions over time will face specific market terms, more stringent regulatory requirements and larger investment requirements for climate initiatives. Climate challenges may thus affect the robustness of a business and will potentially impair its earnings capacity and growth opportunities. Other things being equal, this could limit the creditworthiness of a business. Companies applying a more environmentally sus- tainable profile are estimated to have a better foundation for tackling any challenges imposed by rising climate considerations.  
+To Spar Nord, sustainability risk is an inherent credit risk assessed together with other credit fac- tors. Assessments of, in particular, governance factors have historically formed a part of the basic credit assessment of business customers. Physical and transition risks related to climate change are also an element of the Bank's credit policy for assessing credit risk, both in relation to the individual customer, but also at portfolio level.  
+Spar Nord makes quarterly management esti- mates to mitigate climate-related credit risk. At the end of 2024, the Bank's management estimate relating to ESG totalled DKK 88 million. The  
+Spar Nord Annual Report 2024  
+69  
+#--- Page 70 ---
+
+____________________
+
+		 Source:## Financial reporting  
+### Targets  
+To support the realisation of Spar Nord's climate ambition of net zero by 2050, we have defined a number of 2030 sub-targets for decarbonisation of loan and investment activities and for the Bank's own operations. Additionally, Spar Nord has set sub-targets for selected segments, accompanied by specific actions and metrics, all designed to support the Bank's strategic direction.  
+The reduction targets and sub-targets defined by the Bank are based on baseline analyses of the Bank's climate footprint through scope 1, 2 and 3. As the Bank's climate change initiatives are an on- going process, the baseline years are not identical across the three impact areas. However, the 2050 ambition is shared across the entire business, just as all activities have been assigned sub-targets for decarbonisation by 2030. Spar Nord's targets have been substantiated using scientific scenarios, which are described in more detail under the spe- cific activity.  
+The reduction targets for financed emissions from the Bank's core activities of loans and investments relate to significant shares of the Bank's business volume for bank and leasing loans and invest- ments in equities and corporate bonds in the Bank's asset management.  
+The reduction targets related to the Bank's core activities are calculated in the relative metric tCO2e per DKK million, while the reduction targets for own operations are calculated in absolute emissions in the tCO2e metric.  
+The illustration gives an overview of the Bank's cli- mate-related targets. For each target, the base- line years and the sub-targets set for 2025 and 2030 are presented. The target achievement by the end of 2024 illustrates progress relative to the Bank's 2030 targets measured on the basis of the relevant baseline year.
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Les objectifs de réduction fixés sont-ils alignés avec une trajectoire de 1,5°C conformément aux Accords de Paris ? L'entreprise mentionne-t-elle une trajectoire conforme aux objectifs SBTi ? Il convient également de noter que, si l'entreprise affiche des objectifs de neutralité carbone, cette neutralité doit nécessairement être alignée avec les recommandations de l'Accord de Paris.
+
+
+Context: Pour garantir la compatibilité avec un scénario de transition conforme à l'accord de Paris, l'entreprise doit fournir les informations suivantes : <br><br>- Un/des objectif(s) de réduction avec une trajectoire de réchauffement à 1,5°C grâce à une trajectoire de décarbonation sectorielle si disponible, soit grâce à une trajectoire d'émissions transsectorielle compatible avec la limitation de réchauffement de la planète à 1,5°C (cf. AR 26 et 27). <br><br>- Les facteurs de réduction des émissions évoluent et ne sont pas fixes encore. Par conséquent, les entreprises sont encouragées à n'utiliser que des informations actualisées et publiquement accessibles. L'EFRAG préconise Pathways to Net-Zero - SBTi Technical Summary). Les cibles de réduction doivent être fixées respectivement à 2030 et 2050, avec des échellons tous les 5 ans. 
+
+
+Answer: Je ne sais pas. Le texte ne mentionne pas explicitement si les objectifs de réduction de Spar Nord sont alignés avec une trajectoire de 1,5°C conformément aux Accords de Paris, ni si l'entreprise mentionne une trajectoire conforme aux objectifs Science Based Targets initiative (SBTi). Le texte indique que les objectifs de Spar Nord sont basés sur les scénarios de réduction de l'Intergovernmental Panel on Climate Change (IPCC), mais il ne précise pas si ces scénarios sont alignés avec l'objectif de 1,5°C des Accords de Paris.
+
+
+Sources:
+
+
+		 Source:The positive developments in 2024 were attributa- ble in particular to lower financed emissions from investments in corporate bonds, which related  
+both to conversion to more climate-friendly unit trust certificates and a reduction in emissions from existing unit trust certificates.  
+The reduction means that the Bank has met the sub-target for 2025 and is well on its way to- wards meeting the 2030 target.  
+Targets for decarbonisation of own operations Spar Nord is focused on mitigating the environ- mental and climate impact of the Bank's own ac- tivities, for example by proactively promoting en- vironmental responsibility and sustainable tech- nologies in relevant areas of its operations. To support Spar Nord's aspirations of net zero by 2050, the Bank has set a goal of reducing scope 1 and 2 GHG emissions by 30% by 2025 and 50% by 2030 compared to the 2021 baseline of 681 tCO2e.  
+GHG emission reduction target (tCO2e) from scope 1 and 2  
+%  
+100  
+80  
+60  
+40  
+20  
+0  
+2021  
+2024 2025  
+2030  
+Spar Nord  
+Target  
+IPCC pathway  
+In 2024, GHG emissions from scope 1 and 2 totalled 597 tCO2e, representing a reduction of 12% com- pared to the 2021 baseline.  
+With this reduction, the Bank follows the projec- tion for the IPCC reduction pathway, but is still above the projection towards own targets for 2025 and 2030. The Bank is focused on energy-  
+enhancing and energy-efficient measures for working towards the targets.  
+Furthermore, the Bank has set a target of reducing scope 3 GHG emissions from own operations by 25% by 2030 compared to the 2021 baseline of 24,748 tCO2e. Spar Nord has opted to substanti- ate its targets based on the IPCC reduction path- way.
+
+____________________
+
+		 Source:## Financial reporting  
+### Loan decarbonisation targets  
+To support Spar Nord's net zero target, in 2022 the Bank defined two sub-targets for the reduction of financed emissions from lending activities to retail and business customers by 20% in 2025 and 45% in 2030, respectively, relative to a 2021 baseline of 8.8 tCO2e per DKK million. In 2024, Spar Nord de- cided to substantiate and refine its climate ambi- tion and the supporting reduction targets for fi- nanced emissions from lending activities by align- ing them with climate science-based net-zero sce- narios from the Intergovernmental Panel on Cli- mate Change (IPCC). This substantiation led to an adjustment of the sub-target for the overall loan portfolio from the previous reduction target of 45% to now 50% by 2030.  
+Targets for reducing financed emissions (tCO2e per DKK million) from the overall loan portfolio  
+%  
+100  
+80  
+60  
+40  
+20  
+0  
+2021  
+2024 2025  
+2030  
+Spar Nord  
+Target  
+IPCC pathway  
+In 2024, financed emissions from the loan portfolio were reduced by 40% compared to the 2021 base- Line. In 2024, financed emissions from the overall loan portfolio amounted to 5.3 tCO2e per DKK mil- lion.  
+The positive development in 2024 was driven, among other things, by a general increase in loans for electric cars, which involve lower emissions than loans for conventional cars, and an increase in bank mortgage loans, which involve relatively  
+low emissions. In addition, there was a significant reduction in emission factors related to business customers.  
+The reduction means that the Bank has met the target of a 20% reduction in 2025 compared to the 2021 baseline. By meeting the targets, Spar Nord places itself well below the IPCC scenario.
+
+____________________
+
+		 Source:## Financial reporting  
+### Targets  
+To support the realisation of Spar Nord's climate ambition of net zero by 2050, we have defined a number of 2030 sub-targets for decarbonisation of loan and investment activities and for the Bank's own operations. Additionally, Spar Nord has set sub-targets for selected segments, accompanied by specific actions and metrics, all designed to support the Bank's strategic direction.  
+The reduction targets and sub-targets defined by the Bank are based on baseline analyses of the Bank's climate footprint through scope 1, 2 and 3. As the Bank's climate change initiatives are an on- going process, the baseline years are not identical across the three impact areas. However, the 2050 ambition is shared across the entire business, just as all activities have been assigned sub-targets for decarbonisation by 2030. Spar Nord's targets have been substantiated using scientific scenarios, which are described in more detail under the spe- cific activity.  
+The reduction targets for financed emissions from the Bank's core activities of loans and investments relate to significant shares of the Bank's business volume for bank and leasing loans and invest- ments in equities and corporate bonds in the Bank's asset management.  
+The reduction targets related to the Bank's core activities are calculated in the relative metric tCO2e per DKK million, while the reduction targets for own operations are calculated in absolute emissions in the tCO2e metric.  
+The illustration gives an overview of the Bank's cli- mate-related targets. For each target, the base- line years and the sub-targets set for 2025 and 2030 are presented. The target achievement by the end of 2024 illustrates progress relative to the Bank's 2030 targets measured on the basis of the relevant baseline year.
+
+____________________
+
+		 Source:## Financial reporting  
+### Asset management decarbonisation targets  
+One-third of Spar Nord's GHG emissions is linked to the assets we manage on behalf of our customers. To support Spar Nord's net zero target, the Bank has defined a target of reducing financed emis- sions from investments in equities and corporate bonds in asset management by 30% by 2025 and 60% by 2030, respectively, relative to a 2020 baseline of 11.3 tCO2e per DKK million and based on scopes 1 and 2 for underlying businesses.  
+To substantiate its sub-targets, the Bank has ap- plied the IPCC reduction pathway, which entails a minimum reduction of 48% in GHG emissions by 2030 and net zero by 2050 relative to 2019.  
+Target for reducing financed emissions (tCO2e per DKK million) from asset management  
+%  
+100  
+80  
+60  
+40  
+20  
+0  
+2020  
+20242025  
+2030  
+Spar Nord  
+Target  
+IPCC pathway  
+In 2024, financed emissions from investments in equities and corporate bonds in asset manage- ment, including investments in the asset classes through unit trust certificates, were reduced by 48% compared to the 2020 baseline. In 2024, fi- nanced emissions thus amounted to 5.9 tCO2e per DKK million.  
+The positive developments in 2024 were attributa- ble in particular to lower financed emissions from investments in corporate bonds, which related  
+both to conversion to more climate-friendly unit trust certificates and a reduction in emissions from existing unit trust certificates.  
+The reduction means that the Bank has met the sub-target for 2025 and is well on its way to- wards meeting the 2030 target.
+
+____________________
+
+		 Source:| Investment . asset management  | 2020 |                           | - 30%  | - 60%   | corporate bonds made on behalf of customers must be reduced by 30% by 2025 and 60% by 2030 relative to a 2020 baseline of 11.3 tCO2e per DKKm.        |
+| Own operations . scope 1 and 2 | 2021 |                           | - 30%  | - 50%   | GHG emissions from the Bank's own operations (scope 1 and 2) must be reduced by 30% by 2025 and 50% by 2030 relative to a 2021 baseline of 681 tCO2e. |
+| Own operations . scope 3       | 2021 |                           |        | - 25%   | GHG emissions from the Bank's own operations (scope 3) must be reduced by 25% by 2030 relative to a 2021 baseline of 24,748 tCO2e.                    |  
+Spar Nord Annual Report 2024  
+71  
+#--- Page 72 ---
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quels sont les leviers de décarbonation identifiés dans le plan de transition de l'entreprise ? Pour répondre à cette question, nous souhaitons avoir la liste ou les noms des actions menées, accompagnées d'une description simple. Si possible, afficher les objectifs de réduction pour chacune des actions, avec l'année cible et l'année de référence.
+
+
+Context: <br><br>1. Nom de l'action ou du projet de réduction. <br>2. Métrique. <br>3. Périmètre des émissions (Scope 1, 2 ou 3). <br>4. Année de référence. <br>5. Objectif de réduction. <br>6. Année cible. Des informations moins primordiales, mais souhaitables pourraient être : <br><br>- La méthodologie utilisée ou l'initiative correspondante. <br>- Les objectifs intermédiaires (2030, 2035, 2040, 2045). 
+
+
+Answer: Les leviers de décarbonation identifiés dans le plan de transition de l'entreprise Spar Nord incluent plusieurs actions spécifiques. Voici les actions menées, accompagnées d'une description simple et des objectifs de réduction associés :
+
+1. **Prêts pour véhicules électriques** :
+   - **Description** : Augmenter la proportion de prêts pour l'achat de voitures électriques.
+   - **Objectif de réduction** : D'ici 2030, 80% de tous les nouveaux prêts pour le financement de voitures devront concerner des voitures électriques, par rapport à un point de référence de 2023.
+
+2. **Prêts pour l'habitation** :
+   - **Description** : Réduire les émissions financées provenant des prêts pour les maisons privées.
+   - **Objectif de réduction** : Réduction de 70% d'ici 2030 par rapport à une base de référence de 2023.
+
+3. **Prêts pour le transport** :
+   - **Description** : Réduire les émissions financées liées aux prêts dans le secteur des transports.
+   - **Objectif de réduction** : Réduction de 30% d'ici 2030 par rapport à une base de référence de 2023.
+
+4. **Financement vert** :
+   - **Description** : Augmenter le financement lié aux catégories du cadre des obligations vertes de la banque.
+   - **Objectif de réduction** : Atteindre au moins 10 milliards de DKK d'ici 2030.
+
+5. **Gestion d'investissements et d'actifs** :
+   - **Description** : Réduire les émissions financées par les investissements en actions et obligations d'entreprise pour le compte des clients.
+   - **Objectif de réduction** : Réduction de 30% d'ici 2025 et de 60% d'ici 2030 par rapport à une base de 2020.
+
+6. **Opérations propres (Scope 1 et 2)** :
+   - **Description** : Réduire les émissions de GES provenant des opérations propres de la banque.
+   - **Objectif de réduction** : Réduction de 30% d'ici 2025 et de 50% d'ici 2030 par rapport à une base de 2021.
+
+7. **Opérations propres (Scope 3)** :
+   - **Description** : Réduire les émissions de GES des opérations propres de la banque (Scope 3).
+   - **Objectif de réduction** : Réduction de 25% d'ici 2030 par rapport à une base de 2021.
+
+Ces actions font partie intégrante du plan de transition de Spar Nord pour atteindre son ambition climatique de zéro émission nette d'ici 2050.
+
+
+Sources:
+
+
+		 Source:| Electric car                   | 2023 |                           |        | + 80%   | By 2030, 80% of all new loans for the financing of cars are to be for electric cars relative to a 2023 baseline of 41%.                               |
+|                                |      |                           |        |         | By 2030, financed emissions from lending to private                                                                                                   |
+| Housing                        | 2023 |                           |        | - 70%   | homes must be reduced by 70% relative to a 2023 baseline of 11.4 kgCO2e/m2 per year.                                                                  |
+| Transport                      | 2023 |                           |        | - 30%   | By 2030, financed emissions from lending to the transport sector must be reduced by 30% relative to a 2023 baseline of 40.7 tCO2e per DKKm.           |
+| Green financing                | 2024 |                           |        | 10 DKKb | Lending linked to the categories in the Bank's Green Bond Framework must amount to at least DKK 10 billion by 2030.                                   |
+|                                |      |                           |        |         | Financed emissions from investments in equities and                                                                                                   |
+| Investment . asset management  | 2020 |                           | - 30%  | - 60%   | corporate bonds made on behalf of customers must be reduced by 30% by 2025 and 60% by 2030 relative to a 2020 baseline of 11.3 tCO2e per DKKm.        |
+| Own operations . scope 1 and 2 | 2021 |                           | - 30%  | - 50%   | GHG emissions from the Bank's own operations (scope 1 and 2) must be reduced by 30% by 2025 and 50% by 2030 relative to a 2021 baseline of 681 tCO2e. |
+
+____________________
+
+		 Source:## Financial reporting  
+### Targets  
+To support the realisation of Spar Nord's climate ambition of net zero by 2050, we have defined a number of 2030 sub-targets for decarbonisation of loan and investment activities and for the Bank's own operations. Additionally, Spar Nord has set sub-targets for selected segments, accompanied by specific actions and metrics, all designed to support the Bank's strategic direction.  
+The reduction targets and sub-targets defined by the Bank are based on baseline analyses of the Bank's climate footprint through scope 1, 2 and 3. As the Bank's climate change initiatives are an on- going process, the baseline years are not identical across the three impact areas. However, the 2050 ambition is shared across the entire business, just as all activities have been assigned sub-targets for decarbonisation by 2030. Spar Nord's targets have been substantiated using scientific scenarios, which are described in more detail under the spe- cific activity.  
+The reduction targets for financed emissions from the Bank's core activities of loans and investments relate to significant shares of the Bank's business volume for bank and leasing loans and invest- ments in equities and corporate bonds in the Bank's asset management.  
+The reduction targets related to the Bank's core activities are calculated in the relative metric tCO2e per DKK million, while the reduction targets for own operations are calculated in absolute emissions in the tCO2e metric.  
+The illustration gives an overview of the Bank's cli- mate-related targets. For each target, the base- line years and the sub-targets set for 2025 and 2030 are presented. The target achievement by the end of 2024 illustrates progress relative to the Bank's 2030 targets measured on the basis of the relevant baseline year.
+
+____________________
+
+		 Source:| 0                              | 1                  | 2                                                                                                                                                                           |
+|:-------------------------------|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sustainability target          | Target achievement | Target                                                                                                                                                                      |
+| Lending                        |                    | Financed emissions from lending must be reduced by 20% by 2025 and 50% by 2030 relative to a 2021 baseline.                                                                 |
+| Electric car                   |                    | By 2030, 80% of all new loans for the financing of cars are to be for electric cars relative to a 2023 baseline.                                                            |
+| Housing                        |                    | By 2030, financed emissions from lending to private homes must be reduced by 70% relative to a 2023 baseline.                                                               |
+| Transport                      |                    | By 2030, financed emissions from lending to the transport sector must be reduced by 30% relative to a 2023 baseline.                                                        |
+| Green financing                |                    | Lending linked to the categories in the Bank's Green Bond Framework must amount to at least DKK 10 billion by 2030.                                                         |
+
+____________________
+
+		 Source:| Investment . asset management  | 2020 |                           | - 30%  | - 60%   | corporate bonds made on behalf of customers must be reduced by 30% by 2025 and 60% by 2030 relative to a 2020 baseline of 11.3 tCO2e per DKKm.        |
+| Own operations . scope 1 and 2 | 2021 |                           | - 30%  | - 50%   | GHG emissions from the Bank's own operations (scope 1 and 2) must be reduced by 30% by 2025 and 50% by 2030 relative to a 2021 baseline of 681 tCO2e. |
+| Own operations . scope 3       | 2021 |                           |        | - 25%   | GHG emissions from the Bank's own operations (scope 3) must be reduced by 25% by 2030 relative to a 2021 baseline of 24,748 tCO2e.                    |  
+Spar Nord Annual Report 2024  
+71  
+#--- Page 72 ---
+
+____________________
+
+		 Source:The Bank intends to work to increase the propor- tion of emissions calculated on the basis of pri- mary data in order to make dedicated efforts that will lead to a reduction of GHG emissions.  
+| 0                                                                                     | 1       | 2       | 3           | 4       | 5       |
+|:--------------------------------------------------------------------------------------|:--------|:--------|:------------|:--------|:--------|
+| GHG emissions tCO2e                                                                   | 2024    | 2023    | Change in % | 2022    | 2021    |
+| Scope 1                                                                               | 194     | 222     | -13         | 256     | 213     |
+| Scope 1 - Percentage of scope 1 GHG emissions from regulated emission trading schemes | 0       | 0       | -           | 0       | 0       |
+| Scope 2 - location-based                                                              | 784     | 750     | 5           | 963     | 1,052   |
+| Scope 2 - market-based                                                                | 403     | 393     | 2           | 422     | 468     |
+| Scope 3                                                                               | 787,351 | 962,239 | -18         | 598,866 | 715,678 |
+| 1 Purchased goods and services                                                        | 19,622  | 17,479  | 12          | 16,562  | 16,838  |
+| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Prompt: Quelle est la valeur monétaire des contributions politiques, financières et en nature apportées directement et indirectement par l'entreprise ? <br><br>Consignes: Distinguer le montant total des contributions financières directes, des contributions financières indirectes et des contributions en nature. <br>Pour chaque type de contribution, indiquer si les données sont disponibles, ainsi que le pays ou la zone géographique et le bénéficiaire de la contribution. <br>Présenter les données sous forme de tableau, avec les années et les montants respectifs. <br>Veuillez noter que si ces valeurs ne sont pas affichées, cela peut être interprété comme un signe que l'entreprise ne verse pas de contributions politiques ou d'autres contributions financières liées à l'influence et aux pratiques de lobbying.
+
+
+Context: Contexte: Pour cette question, nous analysons les activités et politiques de lobbying de l'entreprise. On entend par « contribution politique », l'aide financière ou en nature apportée directement aux partis politiques, à leurs représentants élus ou aux personnes qui briguent une fonction politique. Les contributions financières incluent les dons, les prêts, les parrainages, les avances pour services, ou l'achat de billets pour des événements de collecte de fonds et d'autres pratiques similaires. <br>Les contributions en nature incluent la publication, l'utilisation d'installations, la conception et l'impression, le don de matériel, l'adhésion à un conseil d'administration, l'emploi ou le travail de consultance pour des responsables politiques élus ou des candidats à un mandat. <br>Par « contribution politique indirecte », on entend les contributions politiques apportées par l'intermédiaire d'une organisation (de lobbying ou caritative par exemple) ou l'aide apportée à une organisation, par exemple un groupe de réflexion ou une organisation professionnelle proche de certains partis ou de certaines causes politiques, ou qui soutient ces partis/causes.
+
+
+Answer: Je suis désolé, mais je ne dispose pas d'informations sur la valeur monétaire des contributions politiques, financières et en nature apportées directement et indirectement par l'entreprise. Les données spécifiques concernant les montants, les pays ou zones géographiques, et les bénéficiaires des contributions ne sont pas disponibles dans les informations fournies. Si ces valeurs ne sont pas affichées dans les documents de l'entreprise, cela pourrait être interprété comme un signe que l'entreprise ne verse pas de contributions politiques ou d'autres contributions financières liées à l'influence et aux pratiques de lobbying.
+
+
+Sources:
+
+
+		 Source:| ESRS S1-16               | 97 (b)      | Remuneration ratio                                                                                                | Indicator no. 8 Table #3 of Annex 1    |          |                                                                                                 |                               | 93-94   |
+| ESRS S1-17               | 103 (α)     | Incidents of discrimination                                                                                       | Indicator no. 7 Table #3 of Annex 1    |          |                                                                                                 |                               | 94      |
+| ESRS S1-17               | 104 (α)     | Non-respect of UNGPs on Business and Human Rights and OECD guidelines                                             | Indicator no. 10 Table #1 and indica-  |          | Delegated Regulation (EU) 2020/1816, Annex II Delegated Regulation (EU) 2020/1818 Article 12(1) |                               | 94      |
+|                          |             |                                                                                                                   | tor no. 14 Table #3 of                 |          |                                                                                                 |                               |         |
+|                          |             |                                                                                                                   | Annex 1                                |          |                                                                                                 |                               |         |
+
+____________________
+
+		 Source:## Financial reporting  
+| 0               | 1                                                                 | 2           |
+|:----------------|:------------------------------------------------------------------|:------------|
+| ESRS S1         | Paragraph                                                         | Page        |
+| ESRS 2 SBM-2    | Interests and views of stakeholders / S1 Own workforce            | 60 / 88     |
+| ESRS 2 SBM-3    | Key sustainability topics / S1 Own workforce                      | 61-64/ 88   |
+| S1-1            | Policies                                                          | 89          |
+| S1-2            | Processes for dialogue                                            | 89-90       |
+| S1-3            | Processes and channels for expressing concerns                    | 90          |
+| S1-4            | Initiatives                                                       | 90-91       |
+| S1-5            | Targets                                                           | 91-92       |
+| S1-6            | Characteristics of own workforce                                  | 92          |
+| S1-7            | n/a                                                               | n/a         |
+| S1-8            | Collective bargaining coverage and social dialogue                | 92          |
+| S1-9            | Diversity metrics                                                 | 92          |
+| S1-10           | Adequate wages                                                    | 92          |
+| S1-11           | Social protection                                                 | 93          |
+| S1-12           | n/a                                                               | n/a         |
+| S1-13           | Training and skills development                                   | 93          |
+| S1-14           | Health and safety                                                 | 93          |
+
+____________________
+
+		 Source:| ESRS G1-1                | 10 (b)      | The United Nations Convention against Corruption                                                                  | Indicator no. 15                       |          |                                                                                                 |                               | 102     |
+|                          |             |                                                                                                                   | Table #3 of Annex 1                    |          |                                                                                                 |                               |         |
+| ESRS G1-1                | 10 (α)      | Protection of whistleblowers                                                                                      | Indicator no. 6 Table #3 of Annex 1    |          |                                                                                                 |                               | 102     |
+| ESRS G1-4                | 24(α)       | Fines for violation of anti-corruption and anti-bribery laws                                                      | Indicator no. 17 Table #3 of Annex 1   |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 102-103 |
+| ESRS G1-4                | 24 (b)      | Standards of anti- corruption and anti- bribery                                                                   | Indicator no. 16 Table #3 of Annex 1   |          |                                                                                                 |                               | n/a     |
+
+____________________
+
+		 Source:| Accounting policies for social disclosures                      | 99  |
+| Business conduct                                                |     |
+| G1 Business conduct                                             | 101 |
+| Accounting policies for business conduct                        | 105 |
+| Annexes                                                         |     |
+| List of datapoints originating from other EU legislation        | 107 |
+| List of disclosure requirements met in sustainability reporting |     |
+|                                                                 | 110 |
+
+____________________
+
+		 Source:## Financial reporting  
+| 0                        | 1           | 2                                                                                                                 | 3                                      | 4        | 5                                                                                               | 6                             | 7       |
+|:-------------------------|:------------|:------------------------------------------------------------------------------------------------------------------|:---------------------------------------|:---------|:------------------------------------------------------------------------------------------------|:------------------------------|:--------|
+| Table continued ....     |             |                                                                                                                   |                                        |          |                                                                                                 |                               |         |
+| Disclosure re- quirement | Datapoint   | Sustainability disclosure                                                                                         | SFDR                                   | Pillar 3 | Benchmark Regulation                                                                            | EU Reference to Cli- mate Act | Page    |
+| ESRS S1-1                | 21          | Due diligence policies on issues addressed by the fundamental International Labor Organisation Conventions 1 to 8 |                                        |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 89      |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les mesures prises pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption? Pour répondre à cette question, s'intéresser aux mesures de détection, aux mesures de remédiation et à l'engagement continu en matière de lutte anti-corruption.
+
+
+Context: 24(b) Toute mesure prise pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption.
+
+
+Answer: Pour remédier au non-respect des procédures et des normes en matière de lutte contre la corruption, plusieurs mesures de détection, de remédiation et d'engagement continu sont mises en place :
+
+1. **Mesures de Détection :**
+   - La banque a mis en œuvre un environnement de contrôle qui inclut la surveillance des comptes des employés pour détecter d'éventuelles activités suspectes.
+   - Des vérifications accrues sont effectuées sur les employés de certains départements, comme le département de lutte contre le blanchiment d'argent, les personnes clés et les membres du conseil exécutif de la banque, notamment par l'obtention de casiers judiciaires annuels conformément à la loi danoise sur le blanchiment d'argent.
+   - La banque procède à un dépistage pour déterminer si les employés, y compris le conseil d'administration et le conseil exécutif, sont ou ont été liés à des personnes politiquement exposées.
+
+2. **Mesures de Remédiation :**
+   - Bien que le document ne mentionne pas explicitement des mesures de remédiation spécifiques, la formation obligatoire en matière de lutte contre la corruption et la politique de tolérance zéro peuvent être considérées comme des éléments correctifs pour remédier aux infractions passées.
+
+3. **Engagement Continu :**
+   - La banque a une politique de tolérance zéro envers la corruption et la corruption, qui est appliquée tant en interne qu'en coopération avec les clients et les partenaires externes.
+   - Tous les employés reçoivent une formation obligatoire sur la lutte contre la corruption et la corruption, ce qui les sensibilise aux conduites et à l'éthique attendues d'eux.
+   - Un engagement continu est manifeste par l'absence de condamnations ou d'amendes reçues par la banque en relation avec la corruption et la corruption à la fin de 2024, comme indiqué dans le rapport annuel.
+
+Ces mesures témoignent d'un effort soutenu pour maintenir des normes élevées d'intégrité personnelle et organisationnelle.
+
+
+Sources:
+
+
+		 Source:| ESRS G1-1                | 10 (b)      | The United Nations Convention against Corruption                                                                  | Indicator no. 15                       |          |                                                                                                 |                               | 102     |
+|                          |             |                                                                                                                   | Table #3 of Annex 1                    |          |                                                                                                 |                               |         |
+| ESRS G1-1                | 10 (α)      | Protection of whistleblowers                                                                                      | Indicator no. 6 Table #3 of Annex 1    |          |                                                                                                 |                               | 102     |
+| ESRS G1-4                | 24(α)       | Fines for violation of anti-corruption and anti-bribery laws                                                      | Indicator no. 17 Table #3 of Annex 1   |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 102-103 |
+| ESRS G1-4                | 24 (b)      | Standards of anti- corruption and anti- bribery                                                                   | Indicator no. 16 Table #3 of Annex 1   |          |                                                                                                 |                               | n/a     |
+
+____________________
+
+		 Source:## Financial reporting  
+policy should be read in conjunction with the Bank's internal staff handbook, which elaborates on how employees should act in connection with potential conflicts of interest, receipt and giving of gifts, entertainment, invitations, business part- ners, close relations, etc.  
+To increase employee awareness and equip them as well as possible in relation to corruption and bribery, all employees and all customers go through the obligations under the money launder- ing regulations. Employees also receive manda- tory training in anti-corruption and bribery to ex- emplify where they need to show increased atten- tion.  
+To reduce the risk of the Bank's employees, cus- tomers, or partners being exposed to or engaging in corruption and bribery, the Bank has imple- mented a range of preventive measures and es- tablished a control environment designed to miti- gate corruption and bribery associated with vari- ous elements, such as gifts, donations, conflicts of interest, third-party providers, and customer-re- lated transaction risks. In addition, the Bank's em- ployees, including the Board of Directors and Exec- utive Board, and other management layers, are screened to determine whether they are, or have been, related to a politically exposed person. Fur- thermore, monitoring of employees' accounts is conducted.  
+At the end of 2024, the Bank has not received any convictions or fines related to corruption and brib- ery, nor has there been any incidents in this re- gard, which is also stated in the memo on Man- agement statement on fraud, which is discussed annually by the Board of Directors.
+
+____________________
+
+		 Source:| ESRS S4-1                | 17          | Non-respect of UNGPs on Business and Human Rights and OECD guidelines                                             | Indicator no. 10 Ta- ble #1 of Annex 1 |          | Delegated Regulation (EU) 2020/1816,                                                            |                               | 96      |
+|                          |             |                                                                                                                   |                                        |          | Annex II Delegated Regulation (EU) 2020/1818 Article 12(1)                                      |                               |         |
+| ESRS S4-4                | 35          | Human rights issues and incidents                                                                                 | Indicator no. 14                       |          |                                                                                                 |                               | 97-98   |
+|                          |             |                                                                                                                   | Table #3 of Annex 1                    |          |                                                                                                 |                               |         |
+| ESRS G1-1                | 10 (b)      | The United Nations Convention against Corruption                                                                  | Indicator no. 15                       |          |                                                                                                 |                               | 102     |
+
+____________________
+
+		 Source:| Sustainability topics                                      | Value chain    | IRO description                                                                                         | Policies and measures                                 |
+| Corporate culture                                          |                |                                                                                                         |                                                       |
+| Positive impact                                            | Own operations | The Bank's management ensures a sound corporate culture.                                                | . Policy on sound corporate culture                   |
+| Protection of whistleblowers                               |                |                                                                                                         |                                                       |
+| Positive impact                                            | Own operations | The Bank's whistleblower scheme ensures the protection of whistleblowers.                               | · Whistleblower policy                                |
+| Management of relationships with suppliers                 |                |                                                                                                         |                                                       |
+| Positive impact                                            | Upstream       | The Bank ensures timely payment to its suppliers.                                                       | · Governance documents and processes                  |
+| Anti-corruption and bribery                                |                |                                                                                                         |                                                       |
+
+____________________
+
+		 Source:### Anti-corruption and bribery  
+At Spar Nord, we have a zero tolerance policy to- wards corruption and bribery. This applies both in- ternally at Spar Nord and in cooperation with our customers and external partners. In general, Spar Nord estimates that all employees are exposed to corruption and bribery. However, employees in the AML department, key persons and the members of the Bank's Executive Board are particularly ex- posed, which is why the Bank carries out increased checks on these persons, which, among other things, involves obtaining criminal records on an annual basis according to the Danish AML Act.  
+In order for the Bank to maintain the highest standard of personal and organisational integrity and prudence and to minimise risks, it is important that Spar Nord's employees are familiar with the conduct and work ethics expected of them. There- fore, Spar Nord has developed an anti-corruption and bribery policy describing the expectations management has of the Bank's employees. The  
+Spar Nord Annual Report 2024  
+102  
+#--- Page 103 ---
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les émissions totales du Scope 2, calculées grâce à la méthode "location-based" ?
+
+
+Context: nan
+
+
+Answer: Les émissions totales du Scope 2, calculées grâce à la méthode "location-based", sont de 784 tCO2e pour l'année 2024.
+
+
+Sources:
+
+
+		 Source:### Scope 2 Electricity  
+Full-year consumption data are obtained in kWh directly from the utility company's customer por- tal at meter level. Emissions are calculated under the two methods in the GHG Protocol: market- based and location-based. The market-based cal- culation is based on the electricity declaration is- sued by Energinet. In the calculation of emissions using the location-based method, the Bank uses the environmental declaration issued by Ener- ginet, specified by Western and Eastern Denmark.
+
+____________________
+
+		 Source:| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+| 6 Business travelling                                                                 | 435     | 430     | 1           | 392     | 250     |
+| 7 Employee commuting                                                                  | 1,993   | 1,954   | 2           | 2,083   | 1,895   |
+| 13 Downstream leased assets                                                           | 122     | 113     | 9           | 89      | 100     |
+| 15 Investments                                                                        | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| - Of which lending, banking and leasing activities                                    | 257,729 | 261,795 | -2          | 264,694 | 341,491 |
+| - Of which investments                                                                | 505,085 | 678,379 | -26         | 312,212 | 349,439 |
+| Total GHG emissions from own operations - location-based                              | 25,556  | 23,109  | 11          | 23,299  | 26,179  |
+| Total GHG emissions from own operations - market-based                                | 25,134  | 22,681  | 11          | 22,638  | 25,429  |
+| GHG emissions from core activities                                                    | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| Total GHG emissions from own operations and core activities - location-based          | 788,370 | 963,283 | -18         | 600,204 | 717,109 |
+
+____________________
+
+		 Source:The Bank intends to work to increase the propor- tion of emissions calculated on the basis of pri- mary data in order to make dedicated efforts that will lead to a reduction of GHG emissions.  
+| 0                                                                                     | 1       | 2       | 3           | 4       | 5       |
+|:--------------------------------------------------------------------------------------|:--------|:--------|:------------|:--------|:--------|
+| GHG emissions tCO2e                                                                   | 2024    | 2023    | Change in % | 2022    | 2021    |
+| Scope 1                                                                               | 194     | 222     | -13         | 256     | 213     |
+| Scope 1 - Percentage of scope 1 GHG emissions from regulated emission trading schemes | 0       | 0       | -           | 0       | 0       |
+| Scope 2 - location-based                                                              | 784     | 750     | 5           | 963     | 1,052   |
+| Scope 2 - market-based                                                                | 403     | 393     | 2           | 422     | 468     |
+| Scope 3                                                                               | 787,351 | 962,239 | -18         | 598,866 | 715,678 |
+| 1 Purchased goods and services                                                        | 19,622  | 17,479  | 12          | 16,562  | 16,838  |
+| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+
+____________________
+
+		 Source:### Scope 1  
+Owned and leased vehicles  
+Emissions associated with diesel and petrol con- sumption in owned and leased vehicles. The cate- gory covers the Bank's cars, including loan cars and company cars. Emissions from cars are calcu- lated on the basis of the amount of petrol and die- sel fuel used. For company cars, all mileage is ac- counted for in this category, with no distinction made between business and private use.  
+The emission factor for Kg CO2e/litre fuel is based on the Danish Energy Agency and DEFRA. Data are collected in litres of fuel.  
+Consumption of gas Emissions associated with natural gas consump- tion for heating buildings.  
+The emission factor for Kg CO2e/m3 is based on energy statistics from the Danish Energy Agency and DEFRA. Data is read in m3.  
+Direct GHG emissions from refrigerants The category includes direct fugitive emissions re- lated to GHG emissions from the company's refrig- eration systems due to refrigerant leaks.  
+Consumption data is based on estimates from the service provider regarding annual refill require- ments.  
+Emission factors for kg CO2e/kg are based on the IPCC Sixth Assessment Report of the Intergovern- mental Panel on Climate Change, Chapter 7. Data are calculated in kilogrammes.
+
+____________________
+
+		 Source:| Total GHG emissions from own operations - market-based                                | 25,134  | 22,681  | 11          | 22,638  | 25,429  |
+| GHG emissions from core activities                                                    | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| Total GHG emissions from own operations and core activities - location-based          | 788,370 | 963,283 | -18         | 600,204 | 717,109 |
+| Total GHG emissions from own operations and core activities - market-based            | 787,948 | 962,854 | -18         | 599,543 | 716,359 |  
+Spar Nord Annual Report 2024  
+74  
+#--- Page 75 ---
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelles sont les émissions totales du Scope 2, calculées grâce à la méthode "market-based" ?
+
+
+Context: nan
+
+
+Answer: Les émissions totales du Scope 2, calculées grâce à la méthode "market-based" pour l'année 2024 sont de 403 tCO2e.
+
+
+Sources:
+
+
+		 Source:### Scope 2 Electricity  
+Full-year consumption data are obtained in kWh directly from the utility company's customer por- tal at meter level. Emissions are calculated under the two methods in the GHG Protocol: market- based and location-based. The market-based cal- culation is based on the electricity declaration is- sued by Energinet. In the calculation of emissions using the location-based method, the Bank uses the environmental declaration issued by Ener- ginet, specified by Western and Eastern Denmark.
+
+____________________
+
+		 Source:| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+| 6 Business travelling                                                                 | 435     | 430     | 1           | 392     | 250     |
+| 7 Employee commuting                                                                  | 1,993   | 1,954   | 2           | 2,083   | 1,895   |
+| 13 Downstream leased assets                                                           | 122     | 113     | 9           | 89      | 100     |
+| 15 Investments                                                                        | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| - Of which lending, banking and leasing activities                                    | 257,729 | 261,795 | -2          | 264,694 | 341,491 |
+| - Of which investments                                                                | 505,085 | 678,379 | -26         | 312,212 | 349,439 |
+| Total GHG emissions from own operations - location-based                              | 25,556  | 23,109  | 11          | 23,299  | 26,179  |
+| Total GHG emissions from own operations - market-based                                | 25,134  | 22,681  | 11          | 22,638  | 25,429  |
+| GHG emissions from core activities                                                    | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| Total GHG emissions from own operations and core activities - location-based          | 788,370 | 963,283 | -18         | 600,204 | 717,109 |
+
+____________________
+
+		 Source:The Bank intends to work to increase the propor- tion of emissions calculated on the basis of pri- mary data in order to make dedicated efforts that will lead to a reduction of GHG emissions.  
+| 0                                                                                     | 1       | 2       | 3           | 4       | 5       |
+|:--------------------------------------------------------------------------------------|:--------|:--------|:------------|:--------|:--------|
+| GHG emissions tCO2e                                                                   | 2024    | 2023    | Change in % | 2022    | 2021    |
+| Scope 1                                                                               | 194     | 222     | -13         | 256     | 213     |
+| Scope 1 - Percentage of scope 1 GHG emissions from regulated emission trading schemes | 0       | 0       | -           | 0       | 0       |
+| Scope 2 - location-based                                                              | 784     | 750     | 5           | 963     | 1,052   |
+| Scope 2 - market-based                                                                | 403     | 393     | 2           | 422     | 468     |
+| Scope 3                                                                               | 787,351 | 962,239 | -18         | 598,866 | 715,678 |
+| 1 Purchased goods and services                                                        | 19,622  | 17,479  | 12          | 16,562  | 16,838  |
+| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+
+____________________
+
+		 Source:| Total GHG emissions from own operations - market-based                                | 25,134  | 22,681  | 11          | 22,638  | 25,429  |
+| GHG emissions from core activities                                                    | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| Total GHG emissions from own operations and core activities - location-based          | 788,370 | 963,283 | -18         | 600,204 | 717,109 |
+| Total GHG emissions from own operations and core activities - market-based            | 787,948 | 962,854 | -18         | 599,543 | 716,359 |  
+Spar Nord Annual Report 2024  
+74  
+#--- Page 75 ---
+
+____________________
+
+		 Source:### Scope 1  
+Owned and leased vehicles  
+Emissions associated with diesel and petrol con- sumption in owned and leased vehicles. The cate- gory covers the Bank's cars, including loan cars and company cars. Emissions from cars are calcu- lated on the basis of the amount of petrol and die- sel fuel used. For company cars, all mileage is ac- counted for in this category, with no distinction made between business and private use.  
+The emission factor for Kg CO2e/litre fuel is based on the Danish Energy Agency and DEFRA. Data are collected in litres of fuel.  
+Consumption of gas Emissions associated with natural gas consump- tion for heating buildings.  
+The emission factor for Kg CO2e/m3 is based on energy statistics from the Danish Energy Agency and DEFRA. Data is read in m3.  
+Direct GHG emissions from refrigerants The category includes direct fugitive emissions re- lated to GHG emissions from the company's refrig- eration systems due to refrigerant leaks.  
+Consumption data is based on estimates from the service provider regarding annual refill require- ments.  
+Emission factors for kg CO2e/kg are based on the IPCC Sixth Assessment Report of the Intergovern- mental Panel on Climate Change, Chapter 7. Data are calculated in kilogrammes.
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Intensité des émissions totales du groupe : <br> Calculez l'intensité des émissions de gaz à effet total dans l'année 2024. <br><br> Le calcul consiste à diviser les émissions totales par le chiffre d'affaires. <br> Le calcul consiste à diviser les émissions totales par le chiffre d'affaires. <br> L'unité est tCO2e/€m. <br> Il faut présenter le total de chiffres d'affaires utilisé pour calculer l'intensité en GES. <br> Privilégier l'utilisation d'un tableau pour présenter les résultats. <br> Donner les années précédentes si l'information est disponible.
+
+
+Context: nan
+
+
+Answer: Je suis désolé, je ne peux pas déterminer l'intensité des émissions totales du groupe pour l'année 2024 car le chiffre d'affaires total n'est pas fourni dans les informations données. Si vous avez accès au chiffre d'affaires pour 2024 et les années précédentes, je pourrais vous aider à calculer l'intensité des émissions en utilisant les émissions totales rapportées.
+
+
+Sources:
+
+
+		 Source:The Bank intends to work to increase the propor- tion of emissions calculated on the basis of pri- mary data in order to make dedicated efforts that will lead to a reduction of GHG emissions.  
+| 0                                                                                     | 1       | 2       | 3           | 4       | 5       |
+|:--------------------------------------------------------------------------------------|:--------|:--------|:------------|:--------|:--------|
+| GHG emissions tCO2e                                                                   | 2024    | 2023    | Change in % | 2022    | 2021    |
+| Scope 1                                                                               | 194     | 222     | -13         | 256     | 213     |
+| Scope 1 - Percentage of scope 1 GHG emissions from regulated emission trading schemes | 0       | 0       | -           | 0       | 0       |
+| Scope 2 - location-based                                                              | 784     | 750     | 5           | 963     | 1,052   |
+| Scope 2 - market-based                                                                | 403     | 393     | 2           | 422     | 468     |
+| Scope 3                                                                               | 787,351 | 962,239 | -18         | 598,866 | 715,678 |
+| 1 Purchased goods and services                                                        | 19,622  | 17,479  | 12          | 16,562  | 16,838  |
+| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+
+____________________
+
+		 Source:The GHG intensity based on net income amounted to 139 tCO2e per DKK million in 2024. The calcula- tion was made using total GHG emissions under the market-based method and core income from the financial statements consisting of net interest income, net fee income, market value adjustments and dividends, and other income.  
+The principles and methods for compiling the Bank's GHG emissions are described in more detail in the accounting policies for environmental dis- closures.
+
+____________________
+
+		 Source:|:---------------------------------|:--------|:--------|:--------|
+| Changes for business loans       |         |         |         |
+| tCO2e                            | 2023    | 2022    | 2021    |
+| Previous reporting               | 291,931 | 295,349 | 313,866 |
+| Reporting in 2024                | 227,939 | 225,920 | 288,696 |
+| Total changes for business loans | -63,992 | -69,429 | -25,170 |  
+GHG emissions from investments  
+In 2024, data are based on reported data from Danmarks Skibskredit instead of the previously applied average data. The effect is a sharp in- crease in GHG emissions from ship mortgage bonds. As a result, comparative figures have been recalculated where practically possible, which means the comparative figures for 2024 have been revised. GHG emissions for 2021 and 2022 have not been changed because it has not been possible to recalculate the figures due to a shift in data pro- vider between 2022 and 2023.  
+| 0                             | 1       |
+|:------------------------------|:--------|
+| Changes for investments       |         |
+| tCO2e                         | 2023    |
+| Previous reporting            | 408,977 |
+| Reporting in 2024             | 678,379 |
+| Total changes for investments | 269,402 |  
+Spar Nord Annual Report 2024  
+54  
+#--- Page 55 ---
+
+____________________
+
+		 Source:| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+| 6 Business travelling                                                                 | 435     | 430     | 1           | 392     | 250     |
+| 7 Employee commuting                                                                  | 1,993   | 1,954   | 2           | 2,083   | 1,895   |
+| 13 Downstream leased assets                                                           | 122     | 113     | 9           | 89      | 100     |
+| 15 Investments                                                                        | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| - Of which lending, banking and leasing activities                                    | 257,729 | 261,795 | -2          | 264,694 | 341,491 |
+| - Of which investments                                                                | 505,085 | 678,379 | -26         | 312,212 | 349,439 |
+| Total GHG emissions from own operations - location-based                              | 25,556  | 23,109  | 11          | 23,299  | 26,179  |
+| Total GHG emissions from own operations - market-based                                | 25,134  | 22,681  | 11          | 22,638  | 25,429  |
+| GHG emissions from core activities                                                    | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| Total GHG emissions from own operations and core activities - location-based          | 788,370 | 963,283 | -18         | 600,204 | 717,109 |
+
+____________________
+
+		 Source:## Financial reporting  
+| 0                                                 | 1    | 2    | 3    | 4    |
+|:--------------------------------------------------|:-----|:-----|:-----|:-----|
+| Emissions from lending - specified tCO2e per DKKm | 2024 | 2023 | 2022 | 2021 |
+| Residential real estate loans                     | 0.7  | 0.8  | 0.9  | 1.5  |
+| Car loans                                         | 9.2  | 12.3 | 14.9 | 20.7 |
+| tCO2e per DKKm from retail loans                  | 2.0  | 2.5  | 3.2  | 4.9  |
+| Agriculture, hunting, for- estry and fishing      | 23.8 | 24.3 | 24.7 | 24.1 |
+| Industry and raw materials extraction             | 11.2 | 12.4 | 11.3 | 7.9  |
+| Energy supply                                     | 4.6  | 3.0  | 3.0  | 1.6  |
+| Building and construction                         | 5.0  | 7.0  | 4.5  | 6.5  |
+| Trade                                             | 1.6  | 2.1  | 2.0  | 2.0  |
+| Transport, hotels and restaurants                 | 27.2 | 30.8 | 30.9 | 68.8 |
+| Information and communication                     | 1.0  | 1.3  | 1.2  | 0.7  |
+| Real estate                                       | 0.1  | 0.1  | 0.1  | 0.1  |
+| Other business areas                              | 1.2  | 1.5  | 1.6  | 0.2  |
+| tCO2e per DKKm from corporate loans               | 6.9  | 7.7  | 7.6  | 10.3 |
+|                                                   |      |      |      |      |
+| tCO2e per DKKm from Lending                       | 5.3  | 6.1  | 6.3  | 8.8  |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Je souhaite connaître les valeurs liées aux objectifs de réduction du plan de transition. Plusieurs types de réponses sont possibles : <br><br> La valeur brute de réduction des gaz à effet de serre (GES), séparée par Scope (1, 2 et 3). <br> Les cibles de réduction des gaz à effet de serre (GES), exprimées en pourcentage par rapport à une année de référence, séparées par Scope (1, 2 et 3). <br> Les cibles de réduction en intensité monétaire, séparées par Scope (1, 2 et 3). <br> Il est important de distinguer les cibles par secteur d'activité. <br> Si les objectifs concernent les émissions financées, il est important de préciser le périmètre concerné (Scope 1, 2 ou 3). <br> Si possible, préciser la méthodologie utilisée pour fixer l'objectif de référence. <br> Si possible, préciser si l'objectif est conforme à un scénario de réduction aligné avec l'Accord de Paris. <br> Merci de bien indiquer les années de référence ainsi que les années cibles pour chaque objectif présenté.
+
+
+Context: nan
+
+
+Answer: ### Valeurs liées aux objectifs de réduction du plan de transition
+
+#### Valeur brute de réduction des gaz à effet de serre (GES)
+
+- **Scope 1 :**
+  - 2023 : 222 tCO2e
+  - 2024 : 194 tCO2e
+  - Réduction brute de 28 tCO2e de 2023 à 2024
+
+- **Scope 2 (location-based) :**
+  - 2023 : 750 tCO2e
+  - 2024 : 784 tCO2e
+  - Augmentation brute de 34 tCO2e de 2023 à 2024
+
+- **Scope 2 (market-based) :**
+  - 2023 : 393 tCO2e
+  - 2024 : 403 tCO2e
+  - Augmentation brute de 10 tCO2e de 2023 à 2024
+
+- **Scope 3 :**
+  - 2023 : 962,239 tCO2e
+  - 2024 : 787,351 tCO2e
+  - Réduction brute de 174,888 tCO2e de 2023 à 2024
+
+#### Cibles de réduction des gaz à effet de serre (GES) exprimées en pourcentage
+
+- **Scope 1 et 2 (pour opérations propres de la banque) :**
+  - Année de référence : 2021
+  - Réduction de 30% d'ici 2025 et 50% d'ici 2030 par rapport à 681 tCO2e en 2021
+
+- **Scope 3 (émissions financées) :**
+  - **Lending :**
+    - Année de référence : 2021
+    - Réduction de 20% d'ici 2025 et 50% d'ici 2030
+  - **Investment - asset management :**
+    - Année de référence : 2020
+    - Réduction de 30% d'ici 2025 et 60% d'ici 2030 par rapport à 11.3 tCO2e par DKK million
+
+#### Cibles par secteur d'activité
+
+- **Housing :**
+  - Année de référence : 2023
+  - Réduction de 70% d'ici 2030
+
+- **Transport :**
+  - Année de référence : 2023
+  - Réduction de 30% d'ici 2030
+
+#### Méthodologie et conformité
+
+- Les objectifs sont basés sur des analyses de référence de l'empreinte climatique de la banque à travers les scopes 1, 2 et 3.
+- Les objectifs sont alignés avec l'ambition de la banque d'atteindre la neutralité carbone d'ici 2050, bien que la conformité spécifique avec l'Accord de Paris ne soit pas explicitement mentionnée.
+
+#### Années de référence et cibles
+
+- **Scope 1 et 2 (opérations propres) :**
+  - Référence : 2021, Cibles : 2025, 2030
+- **Scope 3 (lending) :**
+  - Référence : 2021, Cibles : 2025, 2030
+- **Scope 3 (investissement) :**
+  - Référence : 2020, Cibles : 2025, 2030
+- **Secteurs (housing et transport) :**
+  - Référence : 2023, Cible : 2030
+
+Ces informations résument les valeurs et cibles principales du plan de transition pour la réduction des émissions de GES de la banque.
+
+
+Sources:
+
+
+		 Source:The Bank intends to work to increase the propor- tion of emissions calculated on the basis of pri- mary data in order to make dedicated efforts that will lead to a reduction of GHG emissions.  
+| 0                                                                                     | 1       | 2       | 3           | 4       | 5       |
+|:--------------------------------------------------------------------------------------|:--------|:--------|:------------|:--------|:--------|
+| GHG emissions tCO2e                                                                   | 2024    | 2023    | Change in % | 2022    | 2021    |
+| Scope 1                                                                               | 194     | 222     | -13         | 256     | 213     |
+| Scope 1 - Percentage of scope 1 GHG emissions from regulated emission trading schemes | 0       | 0       | -           | 0       | 0       |
+| Scope 2 - location-based                                                              | 784     | 750     | 5           | 963     | 1,052   |
+| Scope 2 - market-based                                                                | 403     | 393     | 2           | 422     | 468     |
+| Scope 3                                                                               | 787,351 | 962,239 | -18         | 598,866 | 715,678 |
+| 1 Purchased goods and services                                                        | 19,622  | 17,479  | 12          | 16,562  | 16,838  |
+| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+
+____________________
+
+		 Source:| ESRS E1-6                | 44        | Gross scopes 1, 2, 3 and Total GHG emissions                                                       | Indicators no. 1 and no. 2 Table #1 of Annex 1                    | Article 449a of Regulation (EU) No 575/2013 Commission Implementing Regula- tion (EU) 2022/2453 Template 1: Banking book - Climate Change transition risk: Credit quality of exposures by sector, emissions and residual maturity                      | Delegated Regulation (EU) 2020/1818, Article 5(1), 6 and 8(1)                              |                                         | 74-76 |
+| ESRS E1-6                | 53-55     | Gross GHG emissions intensity                                                                      | Indicator no. 3 Table #1 of Annex 1                               | Article 449a of Regulation (EU) No 575/2013 Commission Implementing Regulation (EU) 2022/2453 Template 3: Banking book - Climate Change transition risk: Alignment metrics                                                                             | Delegated Regulation (EU) 2020/1818, article 8(1)                                          |                                         | 74-76 |
+| ESRS E1-7                | 56        | GHG removals and carbon credits                                                                    |                                                                   |                                                                                                                                                                                                                                                        |                                                                                            | Regulation (EU) 2021/1119, Article 2(1) | n/a   |
+
+____________________
+
+		 Source:## Financial reporting  
+### Targets  
+To support the realisation of Spar Nord's climate ambition of net zero by 2050, we have defined a number of 2030 sub-targets for decarbonisation of loan and investment activities and for the Bank's own operations. Additionally, Spar Nord has set sub-targets for selected segments, accompanied by specific actions and metrics, all designed to support the Bank's strategic direction.  
+The reduction targets and sub-targets defined by the Bank are based on baseline analyses of the Bank's climate footprint through scope 1, 2 and 3. As the Bank's climate change initiatives are an on- going process, the baseline years are not identical across the three impact areas. However, the 2050 ambition is shared across the entire business, just as all activities have been assigned sub-targets for decarbonisation by 2030. Spar Nord's targets have been substantiated using scientific scenarios, which are described in more detail under the spe- cific activity.  
+The reduction targets for financed emissions from the Bank's core activities of loans and investments relate to significant shares of the Bank's business volume for bank and leasing loans and invest- ments in equities and corporate bonds in the Bank's asset management.  
+The reduction targets related to the Bank's core activities are calculated in the relative metric tCO2e per DKK million, while the reduction targets for own operations are calculated in absolute emissions in the tCO2e metric.  
+The illustration gives an overview of the Bank's cli- mate-related targets. For each target, the base- line years and the sub-targets set for 2025 and 2030 are presented. The target achievement by the end of 2024 illustrates progress relative to the Bank's 2030 targets measured on the basis of the relevant baseline year.
+
+____________________
+
+		 Source:| Electric car                   | 2023 |                           |        | + 80%   | By 2030, 80% of all new loans for the financing of cars are to be for electric cars relative to a 2023 baseline of 41%.                               |
+|                                |      |                           |        |         | By 2030, financed emissions from lending to private                                                                                                   |
+| Housing                        | 2023 |                           |        | - 70%   | homes must be reduced by 70% relative to a 2023 baseline of 11.4 kgCO2e/m2 per year.                                                                  |
+| Transport                      | 2023 |                           |        | - 30%   | By 2030, financed emissions from lending to the transport sector must be reduced by 30% relative to a 2023 baseline of 40.7 tCO2e per DKKm.           |
+| Green financing                | 2024 |                           |        | 10 DKKb | Lending linked to the categories in the Bank's Green Bond Framework must amount to at least DKK 10 billion by 2030.                                   |
+|                                |      |                           |        |         | Financed emissions from investments in equities and                                                                                                   |
+| Investment . asset management  | 2020 |                           | - 30%  | - 60%   | corporate bonds made on behalf of customers must be reduced by 30% by 2025 and 60% by 2030 relative to a 2020 baseline of 11.3 tCO2e per DKKm.        |
+| Own operations . scope 1 and 2 | 2021 |                           | - 30%  | - 50%   | GHG emissions from the Bank's own operations (scope 1 and 2) must be reduced by 30% by 2025 and 50% by 2030 relative to a 2021 baseline of 681 tCO2e. |
+
+____________________
+
+		 Source:| 0                              | 1                  | 2                                                                                                                                                                           |
+|:-------------------------------|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sustainability target          | Target achievement | Target                                                                                                                                                                      |
+| Lending                        |                    | Financed emissions from lending must be reduced by 20% by 2025 and 50% by 2030 relative to a 2021 baseline.                                                                 |
+| Electric car                   |                    | By 2030, 80% of all new loans for the financing of cars are to be for electric cars relative to a 2023 baseline.                                                            |
+| Housing                        |                    | By 2030, financed emissions from lending to private homes must be reduced by 70% relative to a 2023 baseline.                                                               |
+| Transport                      |                    | By 2030, financed emissions from lending to the transport sector must be reduced by 30% relative to a 2023 baseline.                                                        |
+| Green financing                |                    | Lending linked to the categories in the Bank's Green Bond Framework must amount to at least DKK 10 billion by 2030.                                                         |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Prompt : Quelles sont les émissions de gaz à effet de serre liées à la Catégorie 15 du GHG Protocol : émissions financées ? <br><br> Pour répondre à cette question, veuillez : <br> Distinguer, si possible, les secteurs d'activité, emplacements géographiques ou le type d'actifs financés. <br> Indiquer les émissions financées provenant du portefeuille des investissements disponibles. <br> Distinguer le type de financement (investissement, prêt, etc.). <br> Veuillez noter que si l'entreprise étudiée n'a pas inclus cette catégorie dans son inventaire des émissions. <br> Dans ce cas, merci de préciser que cette information n'est pas disponible et la raison pour laquelle elle n'est pas disponible.
+
+
+Context: nan
+
+
+Answer: Les émissions de gaz à effet de serre liées à la Catégorie 15 du GHG Protocol, qui concerne les émissions financées, sont bien prises en compte par l'entreprise étudiée. Les émissions de cette catégorie sont calculées en accord avec le modèle de CO2 de Finance Denmark. 
+
+Pour l'année de reporting, les émissions financées totales s'élèvent à 762 814 tonnes de CO2e. Ces émissions peuvent être distinguées par type de financement : 
+
+- Les activités de prêt, de banque et de leasing représentent 257 729 tonnes de CO2e.
+- Les investissements représentent 505 085 tonnes de CO2e.
+
+Malheureusement, les informations disponibles ne fournissent pas de détails supplémentaires sur les secteurs d'activité spécifiques, les emplacements géographiques, ou le type d'actifs financés au sein de ces catégories.
+
+
+Sources:
+
+
+		 Source:| 15. Investments                               | Emissions from investments, including asset management and proprietary portfolio, as well as loans to retail and business customers.           | The category is considered relevant.                                                      | GHG emissions associated with the Bank's lending and investments are calculated in accordance with Finance Denmark's CO2 model.                                                                                                                                                                                                             |
+
+____________________
+
+		 Source:| 12. End-of-life treatment of sold products    | Emissions from the disposal and treatment of waste from products sold by the reporting company in the reporting year at the end of their life. | The category is not considered relevant because the Bank does not sell physical products. |                                                                                                                                                                                                                                                                                                                                             |
+| 13. Downstream leased assets                  | Emissions from the operation of assets owned by the reporting company and leased in the reporting year, not included in scope 1 and scope 2.   | The category is considered relevant.                                                      | The energy consumption of let properties is estimated on the basis of calculated key energy consumption figures per square metre area (based on the Bank's owned square metres) and the number of square metres let in the relevant year. Emission factors are the same as those used in calculating scope 1 and 2 and scope 3, category 3. |
+| 14. Franchises                                | Emissions from the operation of franchises in the reporting year, not included in scope 1 and scope 2.                                         | The category is not considered relevant because the Bank does not own franchises.         |                                                                                                                                                                                                                                                                                                                                             |
+
+____________________
+
+		 Source:| 2 Capital goods                                                                       | 1,932   | 1,672   | 16          | 2,390   | 5,209   |
+| 3 Fuel and energy-related activities                                                  | 433     | 418     | 4           | 444     | 456     |
+| 5 Waste                                                                               | 0       | 0       | -           | 0       | 0       |
+| 6 Business travelling                                                                 | 435     | 430     | 1           | 392     | 250     |
+| 7 Employee commuting                                                                  | 1,993   | 1,954   | 2           | 2,083   | 1,895   |
+| 13 Downstream leased assets                                                           | 122     | 113     | 9           | 89      | 100     |
+| 15 Investments                                                                        | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| - Of which lending, banking and leasing activities                                    | 257,729 | 261,795 | -2          | 264,694 | 341,491 |
+| - Of which investments                                                                | 505,085 | 678,379 | -26         | 312,212 | 349,439 |
+| Total GHG emissions from own operations - location-based                              | 25,556  | 23,109  | 11          | 23,299  | 26,179  |
+| Total GHG emissions from own operations - market-based                                | 25,134  | 22,681  | 11          | 22,638  | 25,429  |
+| GHG emissions from core activities                                                    | 762,814 | 940,173 | -19         | 576,906 | 690,930 |
+| Total GHG emissions from own operations and core activities - location-based          | 788,370 | 963,283 | -18         | 600,204 | 717,109 |
+
+____________________
+
+		 Source:### Scope 1  
+Owned and leased vehicles  
+Emissions associated with diesel and petrol con- sumption in owned and leased vehicles. The cate- gory covers the Bank's cars, including loan cars and company cars. Emissions from cars are calcu- lated on the basis of the amount of petrol and die- sel fuel used. For company cars, all mileage is ac- counted for in this category, with no distinction made between business and private use.  
+The emission factor for Kg CO2e/litre fuel is based on the Danish Energy Agency and DEFRA. Data are collected in litres of fuel.  
+Consumption of gas Emissions associated with natural gas consump- tion for heating buildings.  
+The emission factor for Kg CO2e/m3 is based on energy statistics from the Danish Energy Agency and DEFRA. Data is read in m3.  
+Direct GHG emissions from refrigerants The category includes direct fugitive emissions re- lated to GHG emissions from the company's refrig- eration systems due to refrigerant leaks.  
+Consumption data is based on estimates from the service provider regarding annual refill require- ments.  
+Emission factors for kg CO2e/kg are based on the IPCC Sixth Assessment Report of the Intergovern- mental Panel on Climate Change, Chapter 7. Data are calculated in kilogrammes.
+
+____________________
+
+		 Source:| 2. Capital goods                            | Emissions associated with the extraction of materials for and the production and transportation of capital goods purchased or acquired by the reporting company in the reporting year                               | The category is considered relevant in view of the extent of the Bank's purchases.                                                                                                                               | The calculated emissions are based on the monetary principle based on purchasing data of assets acquired during the relevant year.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: L'entreprise est-elle concernée par les critères d'exclusion des indices de référence de l'Accord de Paris ? Pour répondre à cette question, il convient de déterminer si l'entreprise possède l'une des caractéristiques suivantes: <br><br> Elle participe à la production ou à la commercialisation d'armes controversées <br> Elle est impliquée dans la culture ou la production de tabac <br> Elle ne respecte pas les principes directeurs de l'OCDE ou viole les principes du Pacte mondial des Nations Unies. <br> Elle tire au moins 1% de son chiffre d'affaires des énergies fossiles. <br><br> Si l'une de ces caractéristiques est avérée, l'entreprise est concernée par les critères d'exclusion. En revanche, si aucune information n'est disponible concernant ces caractéristiques, cela signifie que l'entreprise n'est pas concernée par les critères d'exclusion de l'indice de référence de l'Accord de Paris.
+
+
+Context: nan
+
+
+Answer: Je ne sais pas. Les informations fournies ne permettent pas de déterminer si l'entreprise possède l'une des caractéristiques mentionnées concernant les critères d'exclusion des indices de référence de l'Accord de Paris.
+
+
+Sources:
+
+
+		 Source:| ESRS 2 SBM-1             | 40 (d) i   | Involvement in activities related to fossil fuels                          | Indicator no. 4 Table #1 of Annex 1                              | Article 449a of Regulation (EU) No 575/2013 Commission Implementing Regulation (EU) 2022/2453 Template 1: Qualitative information on environmental risk and table 2: Qualitative information on social risk                       | Delegated Regulation (EU) 2020/1816, Annex                                                      | II                                      | n/a   |
+| ESRS 2 SBM-1             | 40 (d) ii  | Involvement in activities related to chemical production                   | Indicator no. 9 Table #2 of Annex 1                              |                                                                                                                                                                                                                                   | Delegated Regulation (EU) 2020/1816, Annex                                                      | II                                      | n/a   |
+| ESRS 2 SBM-1             | 40 (d) iii | Involvement in activities related to controversial weapons                 | Indicator no. 14 Table #1 of Annex 1                             |                                                                                                                                                                                                                                   | Delegated Regulation (EU) 2020/1818, Article 12(1) Delegated Regulation (EU) 2020/1816 Annex II |                                         | n/a   |
+
+____________________
+
+		 Source:| ESRS 2 SBM-1             | 40 (d) iv  | Involvement in activities related to cultivation and production of tobacco |                                                                  |                                                                                                                                                                                                                                   | Delegated Regulation (EU) 2020/1818, Article 12(1) Delegated Regulation (EU) 2020/1816 Annex II |                                         | n/a   |
+| ESRS E1-1                | 14         | Transition plan to reach climate neutrality by 2050                        |                                                                  |                                                                                                                                                                                                                                   |                                                                                                 | Regulation (EU) 2021/1119, Article 2(1) | 69    |
+| ESRS E1-1                | 16 (g)     | Undertakings excluded from Paris-aligned Benchmarks                        |                                                                  | Article 449a of Regulation (EU) No 575/2013 Commission Implementing Regula- tion (EU) 2022/2453 Template 1: Banking book - Climate Change transition risk: Credit quality of exposures by sector, emissions and residual maturity | Delegated Regulation (EU) 2020/1818, article 12(1) (d) to (g), and Article 12(2)                |                                         | n/a   |
+
+____________________
+
+		 Source:| ESRS S4-1                | 17          | Non-respect of UNGPs on Business and Human Rights and OECD guidelines                                             | Indicator no. 10 Ta- ble #1 of Annex 1 |          | Delegated Regulation (EU) 2020/1816,                                                            |                               | 96      |
+|                          |             |                                                                                                                   |                                        |          | Annex II Delegated Regulation (EU) 2020/1818 Article 12(1)                                      |                               |         |
+| ESRS S4-4                | 35          | Human rights issues and incidents                                                                                 | Indicator no. 14                       |          |                                                                                                 |                               | 97-98   |
+|                          |             |                                                                                                                   | Table #3 of Annex 1                    |          |                                                                                                 |                               |         |
+| ESRS G1-1                | 10 (b)      | The United Nations Convention against Corruption                                                                  | Indicator no. 15                       |          |                                                                                                 |                               | 102     |
+
+____________________
+
+		 Source:| Fossil gas related activities                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                  |
+| 4 The undertaking carries out, funds or has exposures to construction or operation of electricity generation facilities that pro- NO duce electricity using fossil gaseous fuels.                                                                                                                                                             |                                                                                                                                                                                                                                                  |
+| 5 The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of combined heat/cool NO and power generation facilities using fossil gaseous fuels.                                                                                                                                                      |                                                                                                                                                                                                                                                  |
+
+____________________
+
+		 Source:| 1   | The undertaking carries out, funds or has exposures to research, development, demonstration and deployment of innova- No tive electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle                                                                                      |
+| 2   | The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear installations to No produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies |
+| 3   | The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that produce No electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen produc- tion from nuclear energy, as well as their safety upgrades                        |
+|     | Fossil gas related activities                                                                                                                                                                                                                                                                                                          |
+| 4   | The undertaking carries out, funds or has exposures to construction or operation of power generation facilities that No produce electricity using fossil gaseous fuels                                                                                                                                                                 |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Décrivez la manière dont le plan de transition pour l'atténuation des risques climatiques est intégré dans la stratégie commerciale globale la planification financière de l'entreprise.
+
+
+Context: nan
+
+
+Answer: Le plan de transition pour l'atténuation des risques climatiques est intégré dans la stratégie commerciale globale et la planification financière de Spar Nord de plusieurs manières. Tout d'abord, Spar Nord a élaboré un plan climatique qui a été approuvé par le Conseil d'administration et le Directoire de la Banque. Ce plan définit l'ambition climatique de la banque de parvenir à un bilan net zéro d'ici 2050, conformément à l'objectif de l'Accord de Paris de limiter le réchauffement climatique à 2℃ au-dessus des niveaux préindustriels, avec une ambition supplémentaire d'atteindre 1,5℃.
+
+Dans le cadre de sa stratégie 2023-2025, Spar Nord s'engage à contribuer à la transition vers une société durable et climatiquement neutre. Cette orientation stratégique se traduit par des activités visant à l'adaptation et à l'atténuation du changement climatique. L'atténuation, en particulier, implique la décarbonisation des actifs et activités des clients, en orientant les financements et les investissements vers des technologies à faibles émissions de carbone ou des modèles commerciaux soutenant le climat.
+
+La banque reconnaît également l'importance d'éviter le double comptage des émissions de GES lors de la compensation des émissions par elle-même et ses clients. Dans ses activités de prêt, Spar Nord inclut les risques climatiques physiques et de transition dans sa politique de crédit pour évaluer le risque de crédit, tant au niveau individuel des clients qu'au niveau du portefeuille. Cela se traduit par des estimations de gestion trimestrielles pour atténuer les risques de crédit liés au climat, avec un accent particulier sur les secteurs de l'agriculture et du transport en raison des taxes CO2 actuelles et futures.
+
+Enfin, en tant qu'institution financière, Spar Nord joue un rôle clé en facilitant les flux de capitaux pour soutenir la transformation vers une économie plus durable, ce qui est intégré dans sa gestion des risques et ses décisions d'investissement.
+
+
+Sources:
+
+
+		 Source:### Climate risk  
+The Bank's credit granting is always made based on a pre-calculated risk assessment in accordance with the customer's interests and abilities to comply with any obligations undertaken, against appropriate collateral and with due consider- ation to environmental, social and governance (ESG) issues.  
+ESG risk is an inherent credit risk assessed together with other credit factors. Assessments of especially governance fac- tors have historically formed a part of the basic credit assessment of business customer exposures. Driven by both regu- lation and the current climate crisis, the inclusion of physical and transition risks related to climate change is also an important assessment of the credit risk - both in relation to the individual customer, but also at portfolio level. Businesses with significant CO2e emissions will face special market terms and conditions, more stringent regulatory requirements  
+and an increased requirement to invest in the transition to a more sustainable production for climate measures. Climate challenges may affect the robustness of a business and will potentially impair its earnings capacity and growth oppor- tunities. Other things being equal, this could limit the creditworthiness of a business. Companies applying a more environ- mentally sustainable profile are estimated to potentially have a better foundation for tackling any challenges imposed by rising climate considerations.  
+In 2022 and 2023, the Bank's corporate advisers and corporate specialists improved their ESG capabilities by getting ac- cess to tools that enable them to start engaging with customers about sustainability. These customer dialogues are used for example to assess any significant ESG-related credit risks.
+
+____________________
+
+		 Source:## Group management's report Financial reporting  
+### Climate plan  
+In 2024, Spar Nord prepared a climate plan, which is the Bank's version of the transition plan for cli- mate change mitigation. The climate plan has been approved by the Executive Board and Board of Directors of the Bank.  
+Spar Nord's Climate Plan sets out the Bank's cli- mate ambition of reaching net zero by 2050 in line with the Paris Agreement target of limiting global warming to 2℃ above pre-industrial levels, with a further ambition to achieve 1.5℃. Spar Nord under- stands that a responsible transition to net zero will require us, as a financial institution, to ensure on the one hand continued access to essential goods and services, while on the other hand focus- ing on transitioning key GHG-emitting sectors to low-emission or zero-emission technologies. This transformation of society will require significant investment and financing of technological solu- tions and climate-supporting business models - and this is precisely where we as a financial insti- tution must play an important role.  
+Spar Nord has chosen to target the Bank's climate ambition towards efforts that contribute to cli- mate change mitigation, as we believe that it is through decarbonisation of our customers' assets and activities that we can deliver the greatest positive impact. Decarbonisation occurs when we channel finance and investments in a more sus- tainable direction, e.g. by supporting new low-car- bon technologies or new climate-supporting busi- ness models.  
+Spar Nord is aware that so-called double count- ing can occur when we as a financial institution calculate the Bank's GHG emissions. Double count- ing can be particularly relevant in cases where both we and our customers assume net zero tar- gets and thus choose to compensate for the GHG emissions that cannot be reduced. In such cases, it
+
+____________________
+
+		 Source:capital flows around society. No portfolio-level climate stress tests are carried out yet.  
+In Spar Nord's current strategy 2023-2025, we have defined an ambition of being a committed bank. This strategic direction also applies to our contribution to the transition to a sustainable and climate-neutral society and activities aimed at climate change adaptation and mitigation. While adaptation involves protecting society against consequences of current and potential climate change, mitigation refers to activities aimed at decarbonisation of society.  
+Through Spar Nord's commitment to the UN Princi- ples for Responsible Banking, the Bank has previ- ously identified Sustainable Development Goal 13, Climate Action and climate change as the Bank's most important impact area, as the Bank is as- sessed to have both positive and negative impacts on climate change. It was also on the basis of the analyses from the work on the UN Principles for Responsible Banking that the Bank's core activi- ties were first identified as an important area of action in relation to climate change. This recogni- tion and conclusions from the analysis have been adopted in Spar Nord's double materiality assess- ment, where the Bank has performed a screening of assets and activities related to climate change as well as a mapping to identify where in the value chain the IROs materialise.  
+The table shows the significant IROs identified in relation to climate change and the related sus- tainability topics adaptation, mitigation and en- ergy. The table indicates where in the value chain the IROs materialise. Also listed are relevant inter- nal policies and measures that explain how the Bank addresses the IROs in practice.  
+E1
+
+____________________
+
+		 Source:### Climate change adaptation actions  
+Climate change adaptation is about making changes and adjustments to deal with existing and future consequences of climate change. This means focusing both in the short and long term on reducing the damage caused by climate change, which is already inevitable.  
+For Spar Nord, the Bank's climate change adapta- tion measures relate in particular to the assets and activities we finance through loans to our cus- tomers. For example, we assess that businesses with significant GHG emissions over time will face specific market terms, more stringent regulatory requirements and larger investment requirements for climate initiatives. Climate challenges may thus affect the robustness of a business and will potentially impair its earnings capacity and growth opportunities. Other things being equal, this could limit the creditworthiness of a business. Companies applying a more environmentally sus- tainable profile are estimated to have a better foundation for tackling any challenges imposed by rising climate considerations.  
+To Spar Nord, sustainability risk is an inherent credit risk assessed together with other credit fac- tors. Assessments of, in particular, governance factors have historically formed a part of the basic credit assessment of business customers. Physical and transition risks related to climate change are also an element of the Bank's credit policy for assessing credit risk, both in relation to the individual customer, but also at portfolio level.  
+Spar Nord makes quarterly management esti- mates to mitigate climate-related credit risk. At the end of 2024, the Bank's management estimate relating to ESG totalled DKK 88 million. The  
+Spar Nord Annual Report 2024  
+69  
+#--- Page 70 ---
+
+____________________
+
+		 Source:## Financial reporting  
+### E1 Climate change  
+In recent years, we have seen several extreme weather incidents because of the consistently ris- ing average temperatures, which are a direct con- sequence of increasing GHG emissions - in Den- mark as well as globally. These factors have a negative impact on nature, climate, the environ- ment, people and society. Climate change is un- doubtedly one of the greatest challenges of our time, calling for shared responsibility and collec- tive action.  
+Spar Nord wants to contribute actively in the transition to a sustainable and climate-neutral society. This responsibility is particularly evident when we make financing available to customers' private finances or their businesses. Our custom- ers' actions and ambitions are often reflected di- rectly in the Bank's financing and investment ac- tivities, and their demand for new sustainability- supporting products to a large extent helps drive the Bank's development and initiatives.  
+Spar Nord continuously addresses the Bank's resil- ience to climate change and includes risk perspec- tives in its climate change adaptation and mitiga- tion initiatives. The Bank handles climate-related risks, including transition risks and physical risks, as an integral part of its traditional risk manage- ment. For lending, Spar Nord makes specific stress calculations on customers within the agriculture and transport sectors as a direct consequence of current and future CO2 taxes. For investment port- folios, Spar Nord also applies an increased focus on resilience and climate considerations. We do this both from a risk perspective and based on the co-responsibility we have assumed as a financial institution, which through investments facilitates  
+capital flows around society. No portfolio-level climate stress tests are carried out yet.
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quelle est la répartition par sexe, exprimée en pourcentage, au niveau de l'encadrement supérieur de l'entreprise ? <br><br> Pour répondre à cette question, merci de fournir : <br> Le pourcentage de femmes occupant des postes d'encadrement supérieur. <br> Le pourcentage d'hommes occupant des postes d'encadrement supérieur. 
+
+
+Context: <br> Si possible, inclure des données comparatives sur l'évolution de cette répartition au fil des années.
+
+
+Answer: Je suis désolé, mais les informations fournies ne contiennent pas de données sur la répartition par sexe au niveau de l'encadrement supérieur de l'entreprise. Par conséquent, je ne peux pas répondre à cette question.
+
+
+Sources:
+
+
+		 Source:| 12 of which management companies                                                                  | 0.0%                                                                                      | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                                                                | 0.0% | 0.0% | 0.0%                                                                                     | 0.0%                                                                                                                                | 0.0% | 0.0% | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                      | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                                                                | 0.0% | 0.0% | 0.0%                                                                                     | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                   |
+
+____________________
+
+		 Source:| 12 of which management companies                                                                  | 0.0% 0.0%                                                                                | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                                                            | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                        | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                        | 0.0%              | 0.0%                                                                                                                                                                                                                                               | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%                                   |
+
+____________________
+
+		 Source:| 12 of which management companies                                                                  | 0.0% 0.0%                                                                                                                                                                        | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                                                                                                                                                         | 0.0% | 0.0% | 0.0% | 0.0%                                                                                                                                                                                                                         | 0.0% | 0.0% | 0.0% | 0.0%                                                                                                                                                                                                                         | 0.0% | 0.0% | 0.0% | 0.0%                                                                                                                                                                                                                          | 0.0% | 0.0% | 0.0% | 0.0%                                                                                                                                                                                                                         | 0.0% | 0.0% | 0.0% | 0.0%                                                                                                                                                                                                                                              | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%                               |
+
+____________________
+
+		 Source:| 12 of which management companies                                                                  | 0.0%                                                                                     | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                                           | 0.0%                     | 0.0%                      | 0.0%                                                                                     | 0.0%                   | 0.0%                                                              | 0.0%              | 0.0%                                                                                     | 0.0%                   | 0.0%                                    | 0.0%                      | 0.0%                                                                                     | 0.0%                   | 0.0%                                    | 0.0%                      | 0.0%                                                                                     | 0.0%                   | 0.0%                                                              | 0.0%              | 0.0%                                                                                     | 0.0%                                                                           | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                               |
+
+____________________
+
+		 Source:| 12 of which management companies                                                                  | 0.0%                                                                                     | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                     | 0.0%                     | 0.0%              | 0.0%                                                                                      | 0.0%                                                                                     | 0.0%                    | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                     | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                     | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                     | 0.0%                     | 0.0%              | 0.0%                                                                                                                                                                                                                                              | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%                               |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Renseignez le pourcentage total de salariés en situation de handicap. 
+
+
+Context: Si possible, donnez des informations sur l'évolution de ce pourcentage au fil des années.
+
+
+Answer: Je suis désolé, mais avec les informations fournies, je ne peux pas déterminer le pourcentage total de salariés en situation de handicap.
+
+
+Sources:
+
+
+		 Source:| 20 Non-financial undertakings                                                                     | 0.0% 0.0%                                                                                | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                                                            | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                        | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                        | 0.0%              | 0.0%                                                                                                                                                                                                                                               | 0.0% | 0.0% | 0.0% | 0.0% | 1.4%                                   |
+
+____________________
+
+		 Source:| 26 of which building renovation loans                                                             | 0.0%                                                                                     | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                     | 0.0%                     | 0.0%              |                                                                                           |                                                                                          |                         |                   | 0.0%                                                                                     | 0.0%                                                                                     | 0.0%                     | 0.0%              |                                                                                          |                                                                                          |                          |                   |                                                                                          |                                                                                          |                          |                   | 0.0%                                                                                                                                                                                                                                              | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%                               |
+
+____________________
+
+		 Source:| 26 of which building renovation loans                                                             | 0.0%                                                                                     | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                                           | 0.0%                     | 0.0%                      |                                                                                          |                        |                                                                   |                   | 0.0%                                                                                     | 0.0%                   | 0.0%                                    | 0.0%                      |                                                                                          |                        |                                         |                           |                                                                                          |                        |                                                                   |                   | 0.0%                                                                                     | 0.0%                                                                           | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                               |
+
+____________________
+
+		 Source:| 20 Non-financial undertakings                                                                     | 0.0%                                                                                      | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                                                                | 0.0% | 0.0% | 0.0%                                                                                     | 0.0%                                                                                                                                | 0.0% | 0.0% | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                      | 0.0%              | 0.0%                                                                                     | 0.0%                                                                                                                                | 0.0% | 0.0% | 0.0%                                                                                     | 0.0%                                                                                    | 0.0%                     | 0.0%                  | 0.0%              | 1.4%                                   |
+
+____________________
+
+		 Source:| 26 of which building renovation loans                                                             | 0.0% 0.0%                                                                                | 0.0%                     | 0.0%                  | 0.0%              | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              |                                                                                          |                                                                                 |                          |                   | 0.0%                                                                                     | 0.0%                                       | 0.0%                     | 0.0%              |                                                                                          |                                            |                             |                   |                                                                                          |                                            |                             |                   | 0.0%                                                                                                                                                                                                                                               | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%                                   |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: L'entreprise communique-t-elle toutes les informations contextuelles nécessaires pour comprendre les données relatives aux salariés en situation de handicap et la manière dont elles ont été compilées ?
+
+
+Context: nan
+
+
+Answer: Je ne sais pas. Les informations fournies ne mentionnent pas spécifiquement les données relatives aux salariés en situation de handicap ni la manière dont ces données ont été compilées.
+
+
+Sources:
+
+
+		 Source:| ESRS S1-16               | 97 (b)      | Remuneration ratio                                                                                                | Indicator no. 8 Table #3 of Annex 1    |          |                                                                                                 |                               | 93-94   |
+| ESRS S1-17               | 103 (α)     | Incidents of discrimination                                                                                       | Indicator no. 7 Table #3 of Annex 1    |          |                                                                                                 |                               | 94      |
+| ESRS S1-17               | 104 (α)     | Non-respect of UNGPs on Business and Human Rights and OECD guidelines                                             | Indicator no. 10 Table #1 and indica-  |          | Delegated Regulation (EU) 2020/1816, Annex II Delegated Regulation (EU) 2020/1818 Article 12(1) |                               | 94      |
+|                          |             |                                                                                                                   | tor no. 14 Table #3 of                 |          |                                                                                                 |                               |         |
+|                          |             |                                                                                                                   | Annex 1                                |          |                                                                                                 |                               |         |
+
+____________________
+
+		 Source:| ESRS S1-3                | 32 (c)      | Grievance/complaints handling mechanisms                                                                          | Indicator no. 5 Table #3 of Annex 1    |          |                                                                                                 |                               | 90      |
+| ESRS S1-14               | 88 (b), (c) | Number of fatalities and number and rate of work-related accidents                                                | Indicator no. 2 Table #3 of Annex 1    |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 93      |
+| ESRS S1-14               | 88 (e)      | Number of days lost to injuries, accidents, fatalities or illness                                                 | Indicator no. 3 Table #3 of Annex 1    |          |                                                                                                 |                               | 93      |
+| ESRS S1-16               | 97 (α)      | Unadjusted gender pay gap                                                                                         | Indicator no. 12 Ta- ble #1 of Annex 1 |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 93-94   |
+| ESRS S1-16               | 97 (b)      | Remuneration ratio                                                                                                | Indicator no. 8 Table #3 of Annex 1    |          |                                                                                                 |                               | 93-94   |
+
+____________________
+
+		 Source:## Financial reporting  
+| 0               | 1                                                                 | 2           |
+|:----------------|:------------------------------------------------------------------|:------------|
+| ESRS S1         | Paragraph                                                         | Page        |
+| ESRS 2 SBM-2    | Interests and views of stakeholders / S1 Own workforce            | 60 / 88     |
+| ESRS 2 SBM-3    | Key sustainability topics / S1 Own workforce                      | 61-64/ 88   |
+| S1-1            | Policies                                                          | 89          |
+| S1-2            | Processes for dialogue                                            | 89-90       |
+| S1-3            | Processes and channels for expressing concerns                    | 90          |
+| S1-4            | Initiatives                                                       | 90-91       |
+| S1-5            | Targets                                                           | 91-92       |
+| S1-6            | Characteristics of own workforce                                  | 92          |
+| S1-7            | n/a                                                               | n/a         |
+| S1-8            | Collective bargaining coverage and social dialogue                | 92          |
+| S1-9            | Diversity metrics                                                 | 92          |
+| S1-10           | Adequate wages                                                    | 92          |
+| S1-11           | Social protection                                                 | 93          |
+| S1-12           | n/a                                                               | n/a         |
+| S1-13           | Training and skills development                                   | 93          |
+| S1-14           | Health and safety                                                 | 93          |
+
+____________________
+
+		 Source:| ESRS S1-1                | 21          | Due diligence policies on issues addressed by the fundamental International Labor Organisation Conventions 1 to 8 |                                        |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 89      |
+| ESRS S1-1                | 22          | Processes and measures for preventing trafficking in human beings                                                 | Indicator no. 11 Table #3 of Annex 1   |          |                                                                                                 |                               | n/a     |
+|                          |             |                                                                                                                   |                                        |          |                                                                                                 |                               |         |
+| ESRS S1-1                | 23          | Workplace accident prevention policy or management system                                                         | Indicator no. 1 Table #3 of Annex 1    |          |                                                                                                 |                               | 89      |
+| ESRS S1-3                | 32 (c)      | Grievance/complaints handling mechanisms                                                                          | Indicator no. 5 Table #3 of Annex 1    |          |                                                                                                 |                               | 90      |
+
+____________________
+
+		 Source:### Social disclosures  
+| 0                                                  | 1   |
+|:---------------------------------------------------|:----|
+| S1 Own workforce                                   | 88  |
+| Policies                                           | 89  |
+| Processes for dialogue                             | 89  |
+| Processes and channels for expressing              |     |
+| concerns                                           | 90  |
+| Targets                                            | 91  |
+| Characteristics of own workforce                   | 92  |
+| Collective bargaining coverage and social dialogue | 92  |
+| Diversity metrics                                  | 92  |
+| Adequate wages                                     | 92  |
+| Social protection                                  | 93  |
+| Training and skills development                    | 93  |
+| Health and safety                                  | 93  |
+| Work-life balance metrics                          | 93  |
+| Pay difference between genders                     | 93  |
+| Incidents, complaints and human rights             | 94  |
+| S4 Consumers and end-users                         | 95  |
+| Policies                                           | 96  |
+| Processes for dialogue                             | 97  |
+| Processes and channels for expressing concerns     | 97  |
+| Initiatives                                        | 97  |
+| Targets                                            | 98  |
+| Accounting policies for social disclosures         | 99  |
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est l'écart de rémunération entre les femmes et les hommes au sein de l'entreprise, en tenant compte des données pour l'année de référence ainsi que pour les deux années antérieures, si ces informations ont déjà été publiées dans le passé ?
+
+
+Context: nan
+
+
+Answer: L'écart de rémunération entre les femmes et les hommes au sein de l'entreprise pour l'année de référence 2024 est de 21,4 %. Pour l'année précédente, 2023, l'écart de rémunération était de 22,6 %. Les données pour l'année antérieure à 2023 ne sont pas fournies dans les informations disponibles.
+
+
+Sources:
+
+
+		 Source:## Financial reporting  
+developments across different job functions. In ad- dition, the Nomination and Remuneration Commit- tee is informed. The HR department has previously supplemented the gender-disaggregated pay sta- tistics with more in-depth analyses, where pay is also related to other factors such as seniority and business performance. These analyses have greatly reduced unexplained pay gaps. In 2025, wage transparency will be one of the Bank's focus areas, which is expected to increase insight into any unexplained pay gaps.  
+| 0                          |      1 |      2 |
+|:---------------------------|-------:|-------:|
+| Compensation metrics       | 2024   | 2023   |
+| Gender pay gap (%)         |   21.4 |   22.6 |
+| Remuneration ratio (ratio) |   10.2 |    9.6 |  
+The gender pay gap is calculated as the differ- ence of average pay levels between male and fe- male employees, expressed as a percentage of the average pay level of male employees. The pay gap is calculated solely on the basis of gender. This does not take into account job functions, sen- iority, skills, etc., which are important factors in ensuring equal pay for work of the same kind or equal value.  
+The remuneration ratio shows the ratio between remuneration of the Bank's highest paid individual (the CEO) and the median remuneration of the Bank's other employees.
+
+____________________
+
+		 Source:### Pay difference between genders  
+The difference of average pay levels between male and female employees, expressed as a per- centage of the average pay level of male employ- ees. The pay difference between genders is calcu- lated as a percentage.
+
+____________________
+
+		 Source:| ESRS S1-3                | 32 (c)      | Grievance/complaints handling mechanisms                                                                          | Indicator no. 5 Table #3 of Annex 1    |          |                                                                                                 |                               | 90      |
+| ESRS S1-14               | 88 (b), (c) | Number of fatalities and number and rate of work-related accidents                                                | Indicator no. 2 Table #3 of Annex 1    |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 93      |
+| ESRS S1-14               | 88 (e)      | Number of days lost to injuries, accidents, fatalities or illness                                                 | Indicator no. 3 Table #3 of Annex 1    |          |                                                                                                 |                               | 93      |
+| ESRS S1-16               | 97 (α)      | Unadjusted gender pay gap                                                                                         | Indicator no. 12 Ta- ble #1 of Annex 1 |          | Delegated Regulation (EU) 2020/1816, Annex II                                                   |                               | 93-94   |
+| ESRS S1-16               | 97 (b)      | Remuneration ratio                                                                                                | Indicator no. 8 Table #3 of Annex 1    |          |                                                                                                 |                               | 93-94   |
+
+____________________
+
+		 Source:### Pay difference between genders  
+Ensuring equal pay for work of the same kind or work of equal value is one of the basic elements of Spar Nord's remuneration policy. The Bank's joint consultation committee annually reviews gender- disaggregated pay statistics in order to monitor  
+Spar Nord Annual Report 2024  
+93  
+#--- Page 94 ---
+
+____________________
+
+		 Source:### Pay gap between the CEO and employees  
+The pay gap between the CEO and employees, which is also referred to as the remuneration ratio, is calculated as the ratio between the annual to- tal remuneration of the CEO (the company's high- est paid individual) and the median of the Bank's annual total remuneration (excluding the highest paid individual).
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est le ratio de rémunération totale annuelle au sein de l'entreprise ? <br><br> Pour répondre à cette question, merci de fournir : <br><br> Le montant total de la rémunération annuelle pour les employés (y compris les salaires, les primes, les avantages et autres compensations). <br> Des détails sur la méthodologie utilisée pour calculer ce ratio, y compris les critères pris en compte. <br> Si disponible, des informations sur l'évolution de ce ratio au fil des années, ainsi que des comparaisons avec des normes sectorielles ou des benchmarks.
+
+
+Context: nan
+
+
+Answer: Je suis désolé, mais je ne dispose pas des informations nécessaires pour répondre à cette question. Les rapports annuels des entreprises contiennent généralement des données détaillées sur la rémunération, mais sans accès à un rapport spécifique et à jour, je ne peux pas fournir de détails sur le montant total de la rémunération annuelle, la méthodologie de calcul du ratio de rémunération totale annuelle, ni des comparaisons avec des normes sectorielles. Il serait préférable de consulter directement le rapport annuel de l'entreprise concernée pour obtenir ces informations.
+
+
+Sources:
+
+
+		 Source:## Parent company financial statements
+
+____________________
+
+		 Source:## Parent company financial statements
+
+____________________
+
+		 Source:## Parent company financial statements
+
+____________________
+
+		 Source:## Parent company financial statements
+
+____________________
+
+		 Source:## Parent company financial statements
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+Question: Quel est le ratio de la rémunération annuelle totale de la personne la mieux payée par rapport à la rémunération totale annuelle médiane de tous les salariés (à l'exclusion de la personne la mieux rémunérée) au sein de l'entreprise ?
+
+
+Context: nan
+
+
+Answer: Je ne sais pas.
+
+
+Sources:
+
+
+		 Source:## Appendix - Management's review (continued)
+
+____________________
+
+		 Source:## Appendix - Management's review (continued)
+
+____________________
+
+		 Source:## Parent company financial statements
+
+____________________
+
+		 Source:## Parent company financial statements
+
+____________________
+
+		 Source:## Parent company financial statements
+
+____________________
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
+**********************
+
+
