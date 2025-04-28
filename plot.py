@@ -7,6 +7,108 @@ from matplotlib.ticker import PercentFormatter
 df = pd.read_excel('your_file.xlsx')
 df['session_date'] = pd.to_datetime(df['session_date'])
 df['week'] = df['session_date'].dt.strftime('%Y-W%U')
+df['week_start_date'] = pd.to_datetime(df['week'] + '-1', format='%Y-W%U-%w')
+
+# Filter PS treatments
+ps_df = df[df['chat_treatment_status'] == 'PS'].copy()
+intention_list = ps_df['intention'].unique()
+
+# Calculate weekly metrics
+weekly_intention_count = ps_df.groupby(['week_start_date', 'intention']).size().unstack().fillna(0)
+weekly_satisfaction = ps_df.groupby(['week_start_date', 'intention'])['satisfaction_status'].value_counts(
+    normalize=True
+).unstack().fillna(0) * 100
+
+# Create visualization grid
+n_intentions = len(intention_list)
+n_cols = 2
+n_rows = (n_intentions + 1 + n_cols - 1) // n_cols  # +1 for count plot
+
+plt.figure(figsize=(15, 5 * n_rows))
+
+# 1. Weekly Intention Count Plot (New)
+ax_count = plt.subplot(n_rows, n_cols, 1)
+weekly_intention_count.sum(axis=1).plot(
+    kind='bar',
+    ax=ax_count,
+    color='steelblue',
+    width=0.8
+)
+ax_count.set_title('Weekly Intention Count (PS Treatments)')
+ax_count.set_ylabel('Number of Intentions')
+ax_count.set_xlabel('Week Start Date')
+ax_count.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+ax_count.grid(True, axis='y', alpha=0.3)
+plt.setp(ax_count.get_xticklabels(), rotation=45, ha='right')
+
+# 2. Satisfaction Trends per Intention
+for idx, intention in enumerate(intention_list, 2):
+    ax = plt.subplot(n_rows, n_cols, idx)
+    
+    # Satisfaction data
+    intention_data = weekly_satisfaction.xs(intention, level='intention')
+    
+    # Count data (secondary axis)
+    count_data = weekly_intention_count[intention]
+    
+    # Plot satisfaction lines
+    for status in ['positive', 'negative', 'no value']:
+        if status in intention_data.columns:
+            intention_data[status].plot(
+                ax=ax,
+                label=f'{status.capitalize()} %',
+                marker='o',
+                markersize=4,
+                linestyle='--' if status == 'negative' else '-',
+                linewidth=1.5
+            )
+    
+    # Plot count bars
+    ax2 = ax.twinx()
+    count_data.plot(
+        ax=ax2,
+        kind='bar',
+        color='lightgrey',
+        alpha=0.3,
+        width=0.4,
+        label='Count'
+    )
+    
+    # Configure axes
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+    ax.set_title(f'Intention: {intention}', pad=10)
+    ax.set_ylabel('Satisfaction (%)')
+    ax.set_ylim(0, 100)
+    ax.yaxis.set_major_formatter(PercentFormatter())
+    ax.grid(True, alpha=0.3)
+    
+    ax2.set_ylabel('Intention Count', rotation=270, labelpad=15)
+    ax2.set_ylim(0, count_data.max() * 1.2)
+    
+    # Combine legends
+    lines, labels = ax.get_legend_handles_labels()
+    bars, bar_labels = ax2.get_legend_handles_labels()
+    ax.legend(lines + bars, labels + bar_labels, title='Metrics', bbox_to_anchor=(1.2, 1))
+
+    plt.setp(ax.get_xticklabels(), rotation=45, ha='right')
+
+plt.tight_layout(pad=3.0)
+plt.show()
+
+
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+from matplotlib.ticker import PercentFormatter
+
+# Load and prepare data
+df = pd.read_excel('your_file.xlsx')
+df['session_date'] = pd.to_datetime(df['session_date'])
+df['week'] = df['session_date'].dt.strftime('%Y-W%U')
 
 # Filter PS treatments and prepare data
 ps_df = df[df['chat_treatment_status'] == 'PS'].copy()
