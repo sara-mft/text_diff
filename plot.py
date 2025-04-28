@@ -1,5 +1,87 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+from matplotlib.ticker import PercentFormatter
+
+# Load and prepare data
+df = pd.read_excel('your_file.xlsx')
+df['session_date'] = pd.to_datetime(df['session_date'])
+df['week'] = df['session_date'].dt.strftime('%Y-W%U')
+
+# Filter PS treatments and prepare data
+ps_df = df[df['chat_treatment_status'] == 'PS'].copy()
+intention_list = ps_df['intention'].unique()
+
+# Calculate weekly satisfaction percentages for each intention
+weekly_intention_satisfaction = ps_df.groupby(['week', 'intention'])['satisfaction_status'].value_counts(
+    normalize=True
+).unstack().fillna(0) * 100
+
+# Create a grid of plots (adjust rows based on your intention count)
+n_intentions = len(intention_list)
+n_cols = 2  # Number of columns in the grid
+n_rows = (n_intentions + n_cols - 1) // n_cols  # Calculate required rows
+
+plt.figure(figsize=(15, 5 * n_rows))
+
+for idx, intention in enumerate(intention_list, 1):
+    ax = plt.subplot(n_rows, n_cols, idx)
+    
+    # Filter data for current intention
+    intention_data = weekly_intention_satisfaction.xs(intention, level='intention')
+    
+    # Plot lines for each satisfaction status
+    for status in ['positive', 'negative', 'no value']:
+        if status in intention_data.columns:
+            intention_data[status].plot(
+                ax=ax, 
+                label=status.capitalize(),
+                marker='o',
+                markersize=4,
+                linestyle='--' if status == 'negative' else '-',
+                linewidth=1.5
+            )
+    
+    ax.set_title(f'Intention: {intention}', pad=10)
+    ax.set_ylabel('Satisfaction (%)')
+    ax.set_ylim(0, 100)
+    ax.yaxis.set_major_formatter(PercentFormatter())
+    ax.grid(True, alpha=0.3)
+    ax.legend(title='Status', bbox_to_anchor=(1, 1))
+    
+    # Rotate x-axis labels for better readability
+    plt.setp(ax.get_xticklabels(), rotation=45, ha='right')
+
+plt.tight_layout(pad=3.0)
+plt.show()
+
+# Optional: Save the full report
+# plt.savefig('intention_satisfaction_trends.png', dpi=300, bbox_inches='tight')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # Load and prepare data
 df = pd.read_excel('your_file.xlsx')
