@@ -1,5 +1,69 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+
+# Load and prepare data
+df = pd.read_excel('your_file.xlsx')
+df['session_date'] = pd.to_datetime(df['session_date'])
+df['week'] = df['session_date'].dt.strftime('%Y-W%U')
+
+# 1. Weekly PS percentage
+weekly_ps = df.groupby('week')['chat_treatment_status'].apply(
+    lambda x: (x == 'PS').mean() * 100
+).reset_index(name='ps_percentage')
+
+# 2. Weekly satisfaction analysis for PS
+ps_df = df[df['chat_treatment_status'] == 'PS']
+weekly_satisfaction = ps_df.groupby('week')['satisfaction_status'].value_counts(
+    normalize=True
+).unstack().fillna(0) * 100
+
+# 3. Prepare intention data
+positive_intent = ps_df[ps_df['satisfaction_status'] == 'positive']['intention'].value_counts()
+negative_intent = ps_df[ps_df['satisfaction_status'] == 'negative']['intention'].value_counts()
+
+# Create visualization grid
+plt.figure(figsize=(14, 12))
+
+# Weekly PS Percentage Plot
+plt.subplot(3, 1, 1)
+plt.plot(weekly_ps['week'], weekly_ps['ps_percentage'], 
+         marker='o', color='blue', linestyle='--')
+plt.title('Weekly Percentage of PS Treatments')
+plt.xticks(rotation=45)
+plt.ylabel('Percentage (%)')
+plt.grid(True, alpha=0.3)
+
+# Weekly Satisfaction Plot
+plt.subplot(3, 1, 2)
+weekly_satisfaction.plot(kind='bar', stacked=True, ax=plt.gca(), 
+                        color=['#4CAF50', '#FF5722', '#9E9E9E'])
+plt.title('Weekly Satisfaction Distribution for PS Treatments')
+plt.xlabel('Week')
+plt.ylabel('Percentage (%)')
+plt.legend(title='Satisfaction', bbox_to_anchor=(1, 1))
+plt.grid(axis='y', alpha=0.3)
+
+# Intention Distribution Horizontal Bar Charts
+plt.subplot(3, 1, 3)
+max_count = max(positive_intent.max(), negative_intent.max())
+plt.barh(positive_intent.index, positive_intent.values, 
+         height=0.4, color='#4CAF50', label='Positive')
+plt.barh(negative_intent.index, negative_intent.values + max_count*0.05, 
+         height=0.4, color='#FF5722', label='Negative')
+plt.title('Intention Distribution by Satisfaction (Horizontal Comparison)')
+plt.xlabel('Count')
+plt.xlim(0, max_count*1.1)
+plt.legend()
+plt.grid(axis='x', alpha=0.3)
+plt.tight_layout(pad=2.0)
+
+plt.show()
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Load data
