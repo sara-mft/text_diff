@@ -5,7 +5,8 @@ import pandas as pd
 
 # Step 1: Extract model_id from index
 df = df.copy()
-df['model_id'] = df.index.str.extract(r'^([\w\-.]+)_run_\d+_perfs$')[0]
+df['model_id'] = df.index.to_series().str.split('_run_').str[0]
+
 
 # Step 2: Group by model_id and compute mean and std
 means = df.groupby('model_id').mean(numeric_only=True)
