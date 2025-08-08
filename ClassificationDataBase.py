@@ -1,7 +1,44 @@
 from itertools import combinations
 import numpy as np
 
+
+
+
+
+
+
+
+
+
 def pairwise_agreement(run_predictions: dict[str, list]) -> float:
+
+    """
+    What it measures
+    How often predictions from different runs of the same model agree with each other on the same input, on average.
+    
+    How it's calculated
+    For each sample:
+    
+    Compare all pairs of runs (e.g., run₁ vs run₂, run₁ vs run₃, etc.).
+    
+    Count how many of those pairs predicted the same class.
+    
+    Divide the number of agreements by the total number of pairs.
+    
+    Average this value across all samples.
+
+
+    Interpretation
+    1.0 = All runs always make the same prediction → perfectly robust.
+    
+    0.0 = All runs disagree as much as possible → highly unstable model.
+    
+    """
+
+
+
+
+    
     runs = list(run_predictions.values())
     n_samples = len(runs[0])
     n_runs = len(runs)
@@ -25,6 +62,32 @@ from collections import Counter
 from scipy.stats import entropy
 
 def consensus_entropy(run_predictions: dict[str, list]) -> float:
+    """
+    ➤ What it measures
+    The uncertainty or diversity in predictions across runs for each input. This is calculated using Shannon entropy over the class distribution.
+    
+    ➤ How it's calculated
+    For each sample:
+    
+    Count how many runs predicted each class (build a distribution).
+    
+    Convert counts into probabilities.
+    
+    Compute entropy of that distribution.
+    
+    Average entropy across all samples.
+    
+    ➤ Interpretation
+    Low entropy (≈ 0.0): All runs agree → high robustness.
+    
+    High entropy (up to log₂(C)): Predictions spread across different classes → model is inconsistent.
+    
+    For binary classification, max entropy is 1.0. For 3 classes, max is ~1.58 (log₂(3)).
+    
+    """
+
+
+    
     runs = list(run_predictions.values())
     n_samples = len(runs[0])
     n_runs = len(runs)
@@ -42,6 +105,33 @@ def consensus_entropy(run_predictions: dict[str, list]) -> float:
 
 
 def majority_vote_agreement(run_predictions: dict[str, list]) -> float:
+
+    """
+    ➤ What it measures
+    How often all runs agree with the majority prediction for a given input.
+    
+    ➤ How it's calculated
+    For each sample:
+    
+    Find the most common predicted class (majority vote).
+    
+    If all runs predicted that same label, count it as 1, else 0.
+    
+    Average over all samples.
+    
+    ➤ Interpretation
+    1.0: All runs always agree with each other → very consistent.
+    
+    <1.0: Some inputs have disagreement among runs.
+    
+    Lower values imply frequent disagreement, even on the most commonly predicted class.
+    """
+
+
+
+
+
+    
     runs = list(run_predictions.values())
     n_samples = len(runs[0])
 
