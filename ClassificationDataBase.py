@@ -1,23 +1,32 @@
-import pandas as pd
+import yaml
 
-# Assume df is your original DataFrame
-# Example index: "resnet50_run_1_perfs", "resnet50_run_2_perfs"
+def get_prompt_by_version(yaml_path: str, version: str) -> dict | None:
+    """
+    Load a YAML file and return the prompt dictionary for a given PROMPT_VERSION.
+    
+    :param yaml_path: Path to the YAML file
+    :param version: PROMPT_VERSION to search for
+    :return: Dict for the matching prompt, or None if not found
+    """
+    with open(yaml_path, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
 
-# Step 1: Extract model_id from index
-df = df.copy()
-df['model_id'] = df.index.to_series().str.split('_run_').str[0]
+    prompts = data.get("PROMPTS", [])
+    
+    for prompt in prompts:
+        if prompt.get("PROMPT_VERSION") == version:
+            return prompt
+    
+    return None  # No match found
 
+# Example usage:
+if __name__ == "__main__":
+    yaml_file = "prompts.yaml"
+    version_to_find = "v2"
+    prompt_dict = get_prompt_by_version(yaml_file, version_to_find)
 
-# Step 2: Group by model_id and compute mean and std
-means = df.groupby('model_id').mean(numeric_only=True)
-stds = df.groupby('model_id').std(numeric_only=True)
-
-# Optional: Rename columns to reflect mean/std
-means.columns = [f"{col}_mean" for col in means.columns]
-stds.columns = [f"{col}_std" for col in stds.columns]
-
-# Step 3: Combine into a single DataFrame
-summary = pd.concat([means, stds], axis=1)
-
-# Done!
-print(summary)
+    if prompt_dict:
+        print(f"Found prompt for version '{version_to_find}':")
+        print(prompt_dict)
+    else:
+        print(f"No prompt found for version '{version_to_find}'.")
