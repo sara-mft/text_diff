@@ -1,32 +1,50 @@
+import argparse
+import sys
 import yaml
+import logging
+from pathlib import Path
 
-def get_prompt_by_version(yaml_path: str, version: str) -> dict | None:
-    """
-    Load a YAML file and return the prompt dictionary for a given PROMPT_VERSION.
-    
-    :param yaml_path: Path to the YAML file
-    :param version: PROMPT_VERSION to search for
-    :return: Dict for the matching prompt, or None if not found
-    """
-    with open(yaml_path, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
 
-    prompts = data.get("PROMPTS", [])
-    
-    for prompt in prompts:
-        if prompt.get("PROMPT_VERSION") == version:
-            return prompt
-    
-    return None  # No match found
+def load_config(config_path: Path) -> dict:
+    """Load YAML configuration from file."""
+    if not config_path.exists():
+        raise FileNotFoundError(f"Config file not found: {config_path}")
+    with open(config_path, "r") as f:
+        return yaml.safe_load(f)
 
-# Example usage:
-if __name__ == "__main__":
-    yaml_file = "prompts.yaml"
-    version_to_find = "v2"
-    prompt_dict = get_prompt_by_version(yaml_file, version_to_find)
 
-    if prompt_dict:
-        print(f"Found prompt for version '{version_to_find}':")
-        print(prompt_dict)
-    else:
-        print(f"No prompt found for version '{version_to_find}'.")
+
+
+def main():
+    # CLI arguments
+    parser = argparse.ArgumentParser(description="Benchmark launcher")
+    parser.add_argument(
+        "-c", "--config",
+        type=Path,
+        required=True,
+        help="Path to YAML configuration file"
+    )
+    parser.add_argument(
+        "-v", "--verbose",
+        action="store_true",
+        help="Enable debug logging"
+    )
+    args = parser.parse_args()
+
+    # Logging setup
+    logging.basicConfig(
+        level=logging.DEBUG if args.verbose else logging.INFO,
+        format="[%(asctime)s] %(levelname)s: %(message)s"
+    )
+
+    try:
+        # Load configuration
+        config = load_config(args.config)
+        logging.debug(f"Loaded configuration: {config}")
+
+        # Run benchmark
+        run_benchmark(config)
+
+    except Exception as e:
+        logging.error(f"Error: {e}", exc_info=args.verbose)
+        sys.exit(1)
