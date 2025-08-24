@@ -26,7 +26,7 @@ from nltk.translate.bleu_score import corpus_bleu
 from nltk.translate.nist_score import corpus_nist
 from nltk.translate.meteor_score import meteor_score
 import jiwer
-import lepor
+import math
 
 # --- Pre-computation Setup ---
 # Some metrics like METEOR require NLTK data. This ensures it's available.
@@ -139,39 +139,58 @@ class TranslationEvaluator:
         ]
         return sum(scores) / len(scores)
 
-    def calculate_lepor(self) -> float:
+    
+    def simple_lepor_score(hypothesis: str, references: list[str]) -> float:
         """
-        Calculates the average LEPOR score.
-        LEPOR is a metric that incorporates length penalty, precision, recall,
-        and word order. Higher is better.
-
+        Simplified LEPOR implementation without external library.
+    
+        Args:
+            hypothesis (str): The MT system output.
+            references (list[str]): List of reference translations.
+    
         Returns:
-            The average LEPOR score over the corpus.
+            float: LEPOR score between 0 and 1.
         """
-        # lepor.lepor_score works on a single hypothesis and its references. We average.
-        scores = [
-            lepor.lepor_score(hyp, refs)
-            for hyp, refs in zip(self.hypotheses, self.references)
-        ]
-        return sum(scores) / len(scores)
+        hyp_tokens = hypothesis.split()
+        best_score = 0.0
+    
+        for ref in references:
+            ref_tokens = ref.split()
+    
+            len_hyp = len(hyp_tokens)
+            len_ref = len(ref_tokens)
+    
+            # --- Length penalty (closer lengths = better) ---
+            lp = math.exp(-abs(len_hyp - len_ref) / len_ref)
+    
+            # --- Precision & Recall ---
+            overlap = len(set(hyp_tokens) & set(ref_tokens))
+            precision = overlap / len_hyp if len_hyp > 0 else 0
+            recall = overlap / len_ref if len_ref > 0 else 0
+    
+            # F-score for balance
+            if precision + recall > 0:
+                f_mean = 2 * precision * recall / (precision + recall)
+            else:
+                f_mean = 0
+    
+            # --- Position difference penalty (simplified) ---
+            # Compare index positions of overlapping words
+            pos_diffs = []
+            for tok in set(hyp_tokens) & set(ref_tokens):
+                try:
+                    pos_diffs.append(abs(hyp_tokens.index(tok) - ref_tokens.index(tok)))
+                except ValueError:
+                    continue
+            pos_penalty = 1 - (sum(pos_diffs) / (len(pos_diffs) * max(len_hyp, len_ref))
+                               if pos_diffs else 0)
+    
+            # --- Final LEPOR ---
+            score = lp * f_mean * pos_penalty
+            best_score = max(best_score, score)
+    
+        return best_score
 
-    def evaluate_all(self) -> Dict[str, Union[float, Dict]]:
-        """
-        Runs all implemented evaluation metrics and returns a consolidated report.
-
-        Returns:
-            A dictionary containing the scores for all metrics.
-        """
-        print("🔬 Starting evaluation...")
-        scores = {
-            "BLEU": self.calculate_bleu(),
-            "NIST": self.calculate_nist(),
-            "WER": self.calculate_wer(),
-            "METEOR": self.calculate_meteor(),
-            "LEPOR": self.calculate_lepor(),
-        }
-        print("✅ Evaluation complete.")
-        return scores
 
 def print_results(scores: Dict[str, Union[float, Dict]]):
     """Prints the evaluation scores in a formatted way."""
