@@ -5,11 +5,11 @@ def multilingual_meteor_score(references, hypothesis, lang="eng"):
     """
     METEOR score using multilingual WordNet (OMW).
     Args:
-        references (list[str]): list of reference sentences
-        hypothesis (str): hypothesis sentence
-        lang (str): language code ('eng', 'fra', 'spa', etc.)
+        references (list[str]): reference translations
+        hypothesis (str): hypothesis translation
+        lang (str): ISO language code ('eng','fra','spa',...)
     """
-    def expand_with_synonyms(tokens):
+    def expand(tokens):
         expanded = set(tokens)
         for tok in tokens:
             for syn in wn.synsets(tok, lang=lang):
@@ -17,11 +17,14 @@ def multilingual_meteor_score(references, hypothesis, lang="eng"):
                     expanded.add(lemma.name().replace("_", " "))
         return list(expanded)
 
-    # Expand synonyms in both refs and hyp
-    expanded_refs = [" ".join(expand_with_synonyms(ref.split())) for ref in references]
-    expanded_hyp = " ".join(expand_with_synonyms(hypothesis.split()))
+    # Expand tokens for hypothesis and references
+    hyp_tokens = hypothesis.split()
+    hyp_expanded = expand(hyp_tokens)
 
-    return meteor_score(expanded_refs, expanded_hyp)
+    ref_expanded = [expand(ref.split()) for ref in references]
+
+    # meteor_score expects tokenized inputs
+    return meteor_score(ref_expanded, hyp_expanded)
 
 
 
