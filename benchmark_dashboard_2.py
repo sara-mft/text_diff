@@ -1,5 +1,5 @@
 """
-Simplified Benchmark Results Dashboard
+Simplified Benchmark Results Dashboard with Multi-File Comparison
 Streamlit app for browsing benchmark results (zero_shot & few_shot as subfolders)
 """
 
@@ -9,6 +9,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
@@ -182,7 +183,7 @@ class BenchmarkDashboard:
 
         task_types = list(self.structure.keys())
         if not task_types:
-            return None
+            return None, False
 
         selected_task_type = st.sidebar.selectbox("Task Type", task_types)
         task_names = list(self.structure[selected_task_type].keys())
@@ -206,7 +207,10 @@ class BenchmarkDashboard:
             format_func=lambda x: {"bar": "📊 Bar", "heatmap": "🔥 Heatmap", "radar": "🎯 Radar"}[x]
         )
 
-        return selected_task_type, selected_task_name, selected_shot_type, selected_dataset, selected_prompt, selected_result_type, chart_type
+        comparison_mode = st.sidebar.checkbox("Enable Multi-File Comparison")
+
+        return (selected_task_type, selected_task_name, selected_shot_type,
+                selected_dataset, selected_prompt, selected_result_type, chart_type), comparison_mode
 
     def render_main(self, filters):
         if not filters:
@@ -257,14 +261,90 @@ class BenchmarkDashboard:
             height=400
         )
 
+    def render_comparison_mode(self):
+        st.header("🔄 Multi-File Comparison")
+
+        # Gather all files
+        all_files = []
+        for task_type in self.structure:
+            for task_name in self.structure[task_type]:
+                for shot_type in ["zero_shot", "few_shot"]:
+                    for file_info in self.structure[task_type][task_name][shot_type]:
+                        label = f"{task_type}/{task_name}/{shot_type} - {file_info['dataset_version']} - v{file_info['prompt_version']} - {file_info['result_type']}"
+                        all_files.append((label, file_info))
+
+        selected_labels = st.multiselect(
+            "Choose files to compare (max 5)",
+            [f[0] for f in all_files],
+            max_selections=5
+        )
+
+        if not selected_labels:
+            st.info("Select files from the dropdown above to start comparing")
+            return
+
+        # Load selected files
+        comparison_data = {}
+        for label in selected_labels:
+            file_info = next(f[1] for f in all_files if f[0] == label)
+            df = self.loader.load_excel_file(file_info['full_path'])
+            comparison_data[label] = df
+
+        # Choose comparison type
+        comparison_type = st.radio(
+            "Comparison Type",
+            ["Same Metric Across Files", "Statistical Summary"]
+        )
+
+        if comparison_type == "Same Metric Across Files":
+            all_metrics = set()
+            for df in comparison_data.values():
+                all_metrics.update(df.columns)
+
+            selected_metric = st.selectbox("Metric to Compare", sorted(all_metrics))
+            if selected_metric:
+                fig = go.Figure()
+                for label, df in comparison_data.items():
+                    if selected_metric in df.columns:
+                        fig.add_trace(go.Bar(
+                            name=label,
+                            x=df.index,
+                            y=df[selected_metric],
+                            text=df[selected_metric].round(3),
+                            textposition='auto'
+                        ))
+                fig.update_layout(
+                    title=f"Comparison: {selected_metric}",
+                    xaxis_title="Models", yaxis_title=selected_metric,
+                    barmode='group', height=600, template='plotly_white'
+                )
+                st.plotly_chart(fig, use_container_width=True)
+
+        elif comparison_type == "Statistical Summary":
+            summary_data = []
+            for label, df in comparison_data.items():
+                summary_data.append({
+                    'File': label,
+                    'Models': len(df),
+                    'Metrics': len(df.columns),
+                    'Mean': df.values.mean(),
+                    'Std': df.values.std(),
+                    'Min': df.values.min(),
+                    'Max': df.values.max()
+                })
+            summary_df = pd.DataFrame(summary_data)
+            st.dataframe(summary_df, use_container_width=True)
+
 
 def main():
     dashboard = BenchmarkDashboard()
     dashboard.render_header()
-    filters = dashboard.render_sidebar()
-    dashboard.render_main(filters)
+    filters, comparison_mode = dashboard.render_sidebar()
+    if comparison_mode:
+        dashboard.render_comparison_mode()
+    else:
+        dashboard.render_main(filters)
 
 
 if __name__ == "__main__":
     main()
-
