@@ -305,9 +305,17 @@ class BenchmarkDashboard:
         # Compute average per model across tasks
         model_scores = {}
         for df in dfs:
+            available_metrics = [m for m in selected_metrics if m in df.columns]
+            if not available_metrics:
+                continue
             for model in df.index:
-                avg = df.loc[model, selected_metrics].mean()
-                model_scores.setdefault(model, []).append(avg)
+                avg = df.loc[model, available_metrics].mean()
+                if pd.notna(avg):
+                    model_scores.setdefault(model, []).append(avg)
+
+        if not model_scores:
+            st.warning("No matching metrics found across tasks.")
+            return
 
         ranking = pd.DataFrame([
             {"Model": m, "Average Score": sum(v) / len(v)}
