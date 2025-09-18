@@ -1,5 +1,8 @@
 """
-Benchmark Results Dashboard with Multi-File Comparison + Model Rankings
+Benchmark Results Dashboard
+- Single File View
+- Multi-File Comparison
+- Model Rankings (with Radar Plot)
 """
 
 import re
@@ -178,7 +181,7 @@ class BenchmarkDashboard:
         mode = st.sidebar.radio("Mode", ["Single File View", "Multi-File Comparison", "Model Rankings"])
         return mode
 
-    # === Single file view (same as before) ===
+    # === Single File View ===
     def render_single_file(self):
         st.sidebar.subheader("File Selection")
 
@@ -239,7 +242,7 @@ class BenchmarkDashboard:
         st.subheader("Data Table")
         st.dataframe(df, use_container_width=True)
 
-    # === Multi-file comparison (simplified) ===
+    # === Multi-file comparison ===
     def render_comparison_mode(self):
         st.header("🔄 Multi-File Comparison")
         all_files = []
@@ -297,26 +300,38 @@ class BenchmarkDashboard:
             return
 
         all_metrics = sorted(set().union(*(df.columns for df in dfs)))
-        selected_metrics = st.multiselect("Metrics for Ranking", all_metrics, default=all_metrics[:1])
+        selected_metrics = st.multiselect("Metrics for Ranking", all_metrics, default=all_metrics[:2])
         if not selected_metrics:
             st.info("Select at least one metric")
             return
 
-        # Compute average per model across tasks
+        # --- Compute average scores ---
         model_scores = {}
+        per_metric_scores = {m: {} for m in selected_metrics}
+
         for df in dfs:
             available_metrics = [m for m in selected_metrics if m in df.columns]
             if not available_metrics:
                 continue
+
             for model in df.index:
-                avg = df.loc[model, available_metrics].mean()
-                if pd.notna(avg):
-                    model_scores.setdefault(model, []).append(avg)
+                values = df.loc[[model], available_metrics].mean()
+                if values.empty:
+                    continue
+
+                # Global average
+                avg = values.mean()
+                model_scores.setdefault(model, []).append(avg)
+
+                # Per-metric averages
+                for m in available_metrics:
+                    per_metric_scores[m].setdefault(model, []).append(values[m])
 
         if not model_scores:
             st.warning("No matching metrics found across tasks.")
             return
 
+        # Build ranking table
         ranking = pd.DataFrame([
             {"Model": m, "Average Score": sum(v) / len(v)}
             for m, v in model_scores.items()
@@ -325,9 +340,48 @@ class BenchmarkDashboard:
         st.subheader("Ranking Table")
         st.dataframe(ranking, use_container_width=True)
 
-        st.subheader("Top Models")
+        # --- Bar chart of top models ---
+        st.subheader("Top Models (Bar Chart)")
         fig = px.bar(ranking.head(10), x="Model", y="Average Score", text="Average Score")
+        fig.update_traces(texttemplate='%{text:.3f}', textposition="outside")
         st.plotly_chart(fig, use_container_width=True)
+
+        # --- Radar plot ---
+        st.subheader("Radar Plot (Per Metric)")
+        top_n = st.slider("Number of Top Models", min_value=3, max_value=15, value=5)
+
+        radar_df = pd.DataFrame({
+            m: {model: sum(vals) / len(vals) for model, vals in per_metric_scores[m].items()}
+            for m in selected_metrics
+        }).fillna(0)
+
+        if radar_df.empty:
+            st.info("No data available for radar plot")
+            return
+
+        # Normalize per metric
+        max_vals = radar_df.max().replace(0, 1)
+        radar_norm = radar_df / max_vals
+
+        fig_radar = go.Figure()
+        top_models = ranking["Model"].head(top_n).tolist()
+
+        for model in top_models:
+            if model in radar_norm.index:
+                fig_radar.add_trace(go.Scatterpolar(
+                    r=radar_norm.loc[model].values,
+                    theta=radar_norm.columns,
+                    fill="toself",
+                    name=model
+                ))
+
+        fig_radar.update_layout(
+            polar=dict(radialaxis=dict(visible=True, range=[0, 1])),
+            showlegend=True,
+            height=600,
+            template="plotly_white"
+        )
+        st.plotly_chart(fig_radar, use_container_width=True)
 
     # === Run app ===
     def run(self):
