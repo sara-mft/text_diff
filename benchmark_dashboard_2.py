@@ -1,3 +1,5 @@
+
+
 """
 Benchmark Results Dashboard
 - Single File View
@@ -379,6 +381,9 @@ class BenchmarkDashboard:
         st.subheader("Radar Plot (Per Metric)")
         top_n = st.slider("Number of Top Models", min_value=3, max_value=15, value=5)
 
+        normalize_radar = st.checkbox("Normalize radar metrics (0–1 scale)", value=True)
+
+        
         # Collect per-metric averages for radar metrics
         per_metric_scores = {m: {} for m in radar_metrics}
         for df in dfs:
@@ -393,6 +398,22 @@ class BenchmarkDashboard:
             m: {model: sum(vals) / len(vals) for model, vals in per_metric_scores[m].items()}
             for m in radar_metrics
         }).fillna(0)
+
+
+        if normalize_radar:
+            norm_df = pd.DataFrame(index=radar_df.index)
+            for m in radar_df.columns:
+                s = radar_df[m]
+                if s.max() == s.min():
+                    s_norm = pd.Series(1.0, index=s.index)
+                else:
+                    if METRIC_DIRECTIONS.get(m, "maximize") == "maximize":
+                        s_norm = (s - s.min()) / (s.max() - s.min())
+                    else:  # minimize
+                        s_norm = 1 - (s - s.min()) / (s.max() - s.min())
+                norm_df[m] = s_norm
+            radar_df = norm_df
+        
 
         if radar_df.empty:
             st.info("No data available for radar plot")
