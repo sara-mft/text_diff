@@ -300,49 +300,70 @@ class BenchmarkDashboard:
             return
 
         all_metrics = sorted(set().union(*(df.columns for df in dfs)))
-        selected_metrics = st.multiselect("Metrics for Ranking", all_metrics, default=all_metrics[:2])
-        if not selected_metrics:
-            st.info("Select at least one metric")
+
+        st.subheader("⚙️ Ranking Options")
+        ranking_metrics = st.multiselect("Metrics for Ranking", all_metrics, default=all_metrics[:2])
+        if not ranking_metrics:
+            st.info("Select at least one metric for ranking")
             return
 
-        # --- Compute average scores ---
-        model_scores = {}
-        per_metric_scores = {m: {} for m in selected_metrics}
+        st.subheader("📊 Radar Options")
+        radar_metrics = st.multiselect("Metrics for Radar Plot", all_metrics, default=all_metrics[:2])
+        if not radar_metrics:
+            st.info("Select at least one metric for radar plot")
+            return
 
+        # --- Compute per-model scores ---
+        raw_scores = {m: {} for m in ranking_metrics}
         for df in dfs:
-            available_metrics = [m for m in selected_metrics if m in df.columns]
-            if not available_metrics:
+            available = [m for m in ranking_metrics if m in df.columns]
+            if not available:
                 continue
-
             for model in df.index:
-                values = df.loc[[model], available_metrics].mean()
-                if values.empty:
-                    continue
+                for m in available:
+                    raw_scores[m].setdefault(model, []).append(df.loc[model, m])
 
-                # Global average
-                avg = values.mean()
-                model_scores.setdefault(model, []).append(avg)
-
-                # Per-metric averages
-                for m in available_metrics:
-                    per_metric_scores[m].setdefault(model, []).append(values[m])
+        # Aggregate: mean across tasks
+        model_scores = {}
+        for m, models in raw_scores.items():
+            for model, vals in models.items():
+                avg_val = sum(vals) / len(vals)
+                model_scores.setdefault(model, {})[m] = avg_val
 
         if not model_scores:
-            st.warning("No matching metrics found across tasks.")
+            st.warning("No data found for ranking metrics")
             return
 
-        # Build ranking table
-        ranking = pd.DataFrame([
-            {"Model": m, "Average Score": sum(v) / len(v)}
-            for m, v in model_scores.items()
-        ]).sort_values("Average Score", ascending=False)
+        # Normalize ranking metrics for fair comparison
+        norm_scores = {}
+        for m in ranking_metrics:
+            vals = [model_scores[model].get(m, float("nan")) for model in model_scores]
+            s = pd.Series(vals, index=model_scores.keys())
+            s = (s - s.min()) / (s.max() - s.min()) if s.max() != s.min() else s
+            for model, v in s.items():
+                norm_scores.setdefault(model, []).append(v)
 
-        st.subheader("Ranking Table")
+        ranking_data = []
+        for model, metrics_dict in model_scores.items():
+            row = {"Model": model}
+            for m in ranking_metrics:
+                row[m] = metrics_dict.get(m, float("nan"))
+            row["Normalized Average Score"] = sum(norm_scores.get(model, [])) / len(ranking_metrics)
+            ranking_data.append(row)
+
+        ranking = pd.DataFrame(ranking_data).sort_values("Normalized Average Score", ascending=False)
+
+        st.subheader("📋 Ranking Table")
         st.dataframe(ranking, use_container_width=True)
 
         # --- Bar chart of top models ---
         st.subheader("Top Models (Bar Chart)")
-        fig = px.bar(ranking.head(10), x="Model", y="Average Score", text="Average Score")
+        fig = px.bar(
+            ranking.head(10),
+            x="Model",
+            y="Normalized Average Score",
+            text="Normalized Average Score"
+        )
         fig.update_traces(texttemplate='%{text:.3f}', textposition="outside")
         st.plotly_chart(fig, use_container_width=True)
 
@@ -350,38 +371,44 @@ class BenchmarkDashboard:
         st.subheader("Radar Plot (Per Metric)")
         top_n = st.slider("Number of Top Models", min_value=3, max_value=15, value=5)
 
+        # Collect per-metric averages for radar metrics
+        per_metric_scores = {m: {} for m in radar_metrics}
+        for df in dfs:
+            available = [m for m in radar_metrics if m in df.columns]
+            if not available:
+                continue
+            for model in df.index:
+                for m in available:
+                    per_metric_scores[m].setdefault(model, []).append(df.loc[model, m])
+
         radar_df = pd.DataFrame({
             m: {model: sum(vals) / len(vals) for model, vals in per_metric_scores[m].items()}
-            for m in selected_metrics
+            for m in radar_metrics
         }).fillna(0)
 
         if radar_df.empty:
             st.info("No data available for radar plot")
             return
 
-        # Normalize per metric
-        max_vals = radar_df.max().replace(0, 1)
-        radar_norm = radar_df / max_vals
-
         fig_radar = go.Figure()
         top_models = ranking["Model"].head(top_n).tolist()
-
         for model in top_models:
-            if model in radar_norm.index:
+            if model in radar_df.index:
                 fig_radar.add_trace(go.Scatterpolar(
-                    r=radar_norm.loc[model].values,
-                    theta=radar_norm.columns,
+                    r=radar_df.loc[model].values,
+                    theta=radar_df.columns,
                     fill="toself",
                     name=model
                 ))
 
         fig_radar.update_layout(
-            polar=dict(radialaxis=dict(visible=True, range=[0, 1])),
+            polar=dict(radialaxis=dict(visible=True)),
             showlegend=True,
             height=600,
             template="plotly_white"
         )
         st.plotly_chart(fig_radar, use_container_width=True)
+
 
     # === Run app ===
     def run(self):
