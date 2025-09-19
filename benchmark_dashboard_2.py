@@ -339,8 +339,16 @@ class BenchmarkDashboard:
         for m in ranking_metrics:
             vals = [model_scores[model].get(m, float("nan")) for model in model_scores]
             s = pd.Series(vals, index=model_scores.keys())
-            s = (s - s.min()) / (s.max() - s.min()) if s.max() != s.min() else s
-            for model, v in s.items():
+            
+            if s.max() == s.min():  # avoid division by zero
+                s_norm = pd.Series(1.0, index=s.index)
+            else:
+                if METRIC_DIRECTIONS.get(m, "maximize") == "maximize":
+                    s_norm = (s - s.min()) / (s.max() - s.min())
+                else:  # minimize
+                    s_norm = 1 - (s - s.min()) / (s.max() - s.min())
+            
+            for model, v in s_norm.items():
                 norm_scores.setdefault(model, []).append(v)
 
         ranking_data = []
